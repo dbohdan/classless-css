@@ -3,6 +3,19 @@
 This is a list of CSS frameworks/themes that do not require you to add classes specific to them to your HTML elements.  It means you can quickly style a plain HTML page.  This is useful, for example, in prototyping.
 
 
+## Contents
+
+* [attriCSS](#attricss)
+* [Bahunya](#bahunya)
+* [LatexCSS](#latexcss)
+* [Milligram](#milligram)
+* [sakura](#sakura)
+* [tacit](#tacit)
+* [W3C Core Style](#w3c-core-style)
+* [water.css](#watercss)
+* [License](#license)
+
+
 ## attriCSS
 
 * [Repository](https://github.com/raj457036/attriCSS)
