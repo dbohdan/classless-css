@@ -50,6 +50,21 @@ This is a list of CSS frameworks/themes that do not require you to add classes s
 [![tacit.png](thumbnail/tacit.png)](screenshot/tacit.png)
 
 
+## W3C Core Style
+
+* [Website](https://www.w3.org/StyleSheets/Core/Overview)
+* [Demo](https://www.w3.org/StyleSheets/Core/preview)
+
+[![w3c-core-styles-0-oldstyle.png](thumbnail/w3c-core-styles-0-oldstyle.png)](screenshot/w3c-core-styles-0-oldstyle.png)
+[![w3c-core-styles-1-modernist.png](thumbnail/w3c-core-styles-1-modernist.png)](screenshot/w3c-core-styles-1-modernist.png)
+[![w3c-core-styles-2-midnight.png](thumbnail/w3c-core-styles-2-midnight.png)](screenshot/w3c-core-styles-2-midnight.png)
+[![w3c-core-styles-3-ultramarine.png](thumbnail/w3c-core-styles-3-ultramarine.png)](screenshot/w3c-core-styles-3-ultramarine.png)
+[![w3c-core-styles-4-swiss.png](thumbnail/w3c-core-styles-4-swiss.png)](screenshot/w3c-core-styles-4-swiss.png)
+[![w3c-core-styles-5-chocolate.png](thumbnail/w3c-core-styles-5-chocolate.png)](screenshot/w3c-core-styles-5-chocolate.png)
+[![w3c-core-styles-6-traditional.png](thumbnail/w3c-core-styles-6-traditional.png)](screenshot/w3c-core-styles-6-traditional.png)
+[![w3c-core-styles-7-steely.png](thumbnail/w3c-core-styles-7-steely.png)](screenshot/w3c-core-styles-7-steely.png)
+
+
 ## water.css
 
 * [Repository](https://github.com/kognise/water.css)
