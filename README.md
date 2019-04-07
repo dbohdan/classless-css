@@ -7,6 +7,7 @@ This is a list of CSS frameworks/themes that do not require you to add classes s
 
 * [attriCSS](#attricss)
 * [Bahunya](#bahunya)
+* [BareCSS](#barecss)
 * [LatexCSS](#latexcss)
 * [Milligram](#milligram)
 * [sakura](#sakura)
@@ -34,6 +35,14 @@ This is a list of CSS frameworks/themes that do not require you to add classes s
 * [Demo](https://kimeiga.github.io/bahunya/)
 
 [![bahunya.png](thumbnail/bahunya.png)](screenshot/bahunya.png)
+
+
+# BareCSS
+
+* [Repository](https://github.com/longsien/BareCSS)
+* [Demo](http://barecss.com/)
+
+[![barecss.png](thumbnail/barecss.png)](screenshot/barecss.png)
 
 
 ## LatexCSS
