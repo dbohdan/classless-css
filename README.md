@@ -54,7 +54,6 @@ This is a list of CSS frameworks/themes that do not require you add classes spec
 
 [![water.css-0-dark.png](thumbnail/water.css-0-dark.png)](screenshot/water.css-0-dark.png)
 [![water.css-1-light.png](thumbnail/water.css-1-light.png)](screenshot/water.css-1-light.png)
-[![](thumbnail/)](screenshot/)
 
 * [Repository](https://github.com/kognise/water.css)
 * [Demo](https://kognise.github.io/water.css/)
