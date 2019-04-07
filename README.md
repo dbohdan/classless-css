@@ -5,11 +5,19 @@ This is a list of CSS frameworks/themes that do not require you add classes spec
 
 ## attriCSS
 
+[![attricss-0-brightlight-green.png](thumbnail/attricss-0-brightlight-green.png)](screenshot/attricss-0-brightlight-green.png)
+[![attricss-1-midnight-green.png](thumbnail/attricss-1-midnight-green.png)](screenshot/attricss-1-midnight-green.png)
+[![attricss-2-darkforest-green.png](thumbnail/attricss-2-darkforest-green.png)](screenshot/attricss-2-darkforest-green.png)
+[![attricss-3-darkfairy-pink.png](thumbnail/attricss-3-darkfairy-pink.png)](screenshot/attricss-3-darkfairy-pink.png)
+[![attricss-4-lightfairy-pink.png](thumbnail/attricss-4-lightfairy-pink.png)](screenshot/attricss-4-lightfairy-pink.png)
+
 * [Repository](https://github.com/raj457036/attriCSS)
 * [Demo](https://raj457036.github.io/attriCSS/)
 
 
 ## Bahunya
+
+[![bahunya.png](thumbnail/bahunya.png)](screenshot/bahunya.png)
 
 * [Repository](https://github.com/Kimeiga/bahunya)
 * [Demo](https://kimeiga.github.io/bahunya/)
@@ -17,17 +25,28 @@ This is a list of CSS frameworks/themes that do not require you add classes spec
 
 ## LatexCSS
 
+[![latex.png](thumbnail/latex.png)](screenshot/latex.png)
+
 * [Repository](https://github.com/davidrzs/latexcss)
 * [Demo](https://davidrzs.github.io/latexcss/)
 
 
 ## sakura
 
+[![sakura-normalize-0.png](thumbnail/sakura-normalize-0.png)](screenshot/sakura-normalize-0.png)
+[![sakura-normalize-1-earthly.png](thumbnail/sakura-normalize-1-earthly.png)](screenshot/sakura-normalize-1-earthly.png)
+[![sakura-normalize-2-vader.png](thumbnail/sakura-normalize-2-vader.png)](screenshot/sakura-normalize-2-vader.png)
+[![sakura-normalize-3-dark.png](thumbnail/sakura-normalize-3-dark.png)](screenshot/sakura-normalize-3-dark.png)
+
 * [Repository](https://github.com/oxalorg/sakura)
 * [Demo](https://oxal.org/projects/sakura/demo/)
 
 
 ## water.css
+
+[![water.css-0-dark.png](thumbnail/water.css-0-dark.png)](screenshot/water.css-0-dark.png)
+[![water.css-1-light.png](thumbnail/water.css-1-light.png)](screenshot/water.css-1-light.png)
+[![](thumbnail/)](screenshot/)
 
 * [Repository](https://github.com/kognise/water.css)
 * [Demo](https://kognise.github.io/water.css/)
