@@ -73,7 +73,7 @@ Not fully classless.  You will at least need a `<section class="container">`.
 [![tacit.png](thumbnail/tacit.png)](screenshot/tacit.png)
 
 
-## W3C Core Style
+## W3C Core Styles
 
 * [Website](https://www.w3.org/StyleSheets/Core/Overview)
 * [Demo](https://www.w3.org/StyleSheets/Core/preview)
