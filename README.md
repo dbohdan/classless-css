@@ -11,7 +11,7 @@ This is a list of CSS frameworks/themes that do not require you to add classes s
 * [Milligram](#milligram)
 * [sakura](#sakura)
 * [tacit](#tacit)
-* [W3C Core Style](#w3c-core-style)
+* [W3C Core Styles](#w3c-core-styles)
 * [water.css](#watercss)
 * [License](#license)
 
