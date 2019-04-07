@@ -38,8 +38,8 @@ This is a list of CSS frameworks/themes that do not require you to add classes s
 
 ## LatexCSS
 
-* [Repository](https://github.com/oxalorg/sakura)
-* [Demo](https://oxal.org/projects/sakura/demo/)
+* [Repository](https://github.com/davidrzs/latexcss)
+* [Demo](https://davidrzs.github.io/latexcss/)
 
 [![latex.png](thumbnail/latex.png)](screenshot/latex.png)
 
