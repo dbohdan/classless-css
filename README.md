@@ -1,6 +1,6 @@
 # Classless CSS
 
-This is a list of CSS frameworks/themes that do not require you add classes specific to them to your HTML elements.  It means you can quickly style a plain HTML page.  This is useful, for example, in prototyping.
+This is a list of CSS frameworks/themes that do not require you to add classes specific to them to your HTML elements.  It means you can quickly style a plain HTML page.  This is useful, for example, in prototyping.
 
 
 ## attriCSS
