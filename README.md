@@ -42,6 +42,14 @@ This is a list of CSS frameworks/themes that do not require you add classes spec
 * [Demo](https://oxal.org/projects/sakura/demo/)
 
 
+## tacit
+
+[![tacit.png](thumbnail/tacit.png)](screenshot/tacit.png)
+
+* [Repository](https://github.com/yegor256/tacit)
+* [Demo](https://yegor256.github.io/tacit/)
+
+
 ## water.css
 
 [![water.css-0-dark.png](thumbnail/water.css-0-dark.png)](screenshot/water.css-0-dark.png)
