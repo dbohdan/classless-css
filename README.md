@@ -1,29 +1,33 @@
 # Classless CSS
 
-This is a list of CSS frameworks/themes that do not require you to add classes specific to them to your HTML elements.  It means you can quickly style a plain HTML page.  This is useful, for example, in prototyping.
+This is a list of CSS themes and frameworks that do not require you to add their classes to your HTML elements.  It means you can quickly style a plain HTML page.  This is useful, for example, in prototyping.
 
 
 ## Contents
 
-* [attriCSS](#attricss)
-* [Bahunya](#bahunya)
-* [BareCSS](#barecss)
-* [LatexCSS](#latexcss)
-* [Markdown CSS](#markdown-css)
-  * [Air](#air)
-  * [Modest](#modest)
-  * [Retro](#retro)
-  * [Splendor](#splendor)
-* [Milligram](#milligram)
-* [sakura](#sakura)
-* [tacit](#tacit)
-* [W3C Core Styles](#w3c-core-styles)
-* [water.css](#watercss)
-* [YoRHa](#yorha)
+* [Classless](#classless)
+  * [attriCSS](#attricss)
+  * [Bahunya](#bahunya)
+  * [BareCSS](#barecss)
+  * [LatexCSS](#latexcss)
+  * [Markdown CSS](#markdown-css)
+    * [Air](#air)
+    * [Modest](#modest)
+    * [Retro](#retro)
+    * [Splendor](#splendor)
+  * [sakura](#sakura)
+  * [tacit](#tacit)
+  * [W3C Core Styles](#w3c-core-styles)
+  * [water.css](#watercss)
+  * [YoRHa](#yorha)
+* [Class-light](#class-light)
+  * [Milligram](#milligram)
 * [License](#license)
 
 
-## attriCSS
+## Classless
+
+### attriCSS
 
 * [Repository](https://github.com/raj457036/attriCSS)
 * [Demo](https://raj457036.github.io/attriCSS/)
@@ -35,7 +39,7 @@ This is a list of CSS frameworks/themes that do not require you to add classes s
 [![attricss-4-lightfairy-pink.png](thumbnail/attricss-4-lightfairy-pink.png)](screenshot/attricss-4-lightfairy-pink.png)
 
 
-## Bahunya
+### Bahunya
 
 * [Repository](https://github.com/Kimeiga/bahunya)
 * [Demo](https://kimeiga.github.io/bahunya/)
@@ -43,7 +47,7 @@ This is a list of CSS frameworks/themes that do not require you to add classes s
 [![bahunya.png](thumbnail/bahunya.png)](screenshot/bahunya.png)
 
 
-## BareCSS
+### BareCSS
 
 * [Repository](https://github.com/longsien/BareCSS)
 * [Demo](http://barecss.com/)
@@ -51,7 +55,7 @@ This is a list of CSS frameworks/themes that do not require you to add classes s
 [![barecss.png](thumbnail/barecss.png)](screenshot/barecss.png)
 
 
-## LatexCSS
+### LatexCSS
 
 * [Repository](https://github.com/davidrzs/latexcss)
 * [Demo](https://davidrzs.github.io/latexcss/)
@@ -59,9 +63,9 @@ This is a list of CSS frameworks/themes that do not require you to add classes s
 [![latex.png](thumbnail/latex.png)](screenshot/latex.png)
 
 
-## Markdown CSS
+### Markdown CSS
 
-### Air
+#### Air
 
 * [Repository](https://github.com/markdowncss/air)
 * [Demo](https://markdowncss.github.io/air/)
@@ -69,7 +73,7 @@ This is a list of CSS frameworks/themes that do not require you to add classes s
 [![markdowncss-air.png](thumbnail/markdowncss-air.png)](screenshot/markdowncss-air.png)
 
 
-### Modest
+#### Modest
 
 * [Repository](https://github.com/markdowncss/modest)
 * [Demo](https://markdowncss.github.io/modest/)
@@ -77,7 +81,7 @@ This is a list of CSS frameworks/themes that do not require you to add classes s
 [![markdowncss-modest.png](thumbnail/markdowncss-modest.png)](screenshot/markdowncss-modest.png)
 
 
-### Retro
+#### Retro
 
 * [Repository](https://github.com/markdowncss/retro)
 * [Demo](https://markdowncss.github.io/retro/)
@@ -85,7 +89,7 @@ This is a list of CSS frameworks/themes that do not require you to add classes s
 [![markdowncss-retro.png](thumbnail/markdowncss-retro.png)](screenshot/markdowncss-retro.png)
 
 
-### Splendor
+#### Splendor
 
 * [Repository](https://github.com/markdowncss/splendor)
 * [Demo](https://markdowncss.github.io/splendor/)
@@ -93,17 +97,7 @@ This is a list of CSS frameworks/themes that do not require you to add classes s
 [![markdowncss-splendor.png](thumbnail/markdowncss-splendor.png)](screenshot/markdowncss-splendor.png)
 
 
-## Milligram
-
-Not fully classless.  You will at least need a `<section class="container">`.
-
-* [Repository](https://github.com/milligram/milligram)
-* [Demo](https://milligram.io/)
-
-[![milligram.png](thumbnail/milligram.png)](screenshot/milligram.png)
-
-
-## sakura
+### sakura
 
 * [Repository](https://github.com/oxalorg/sakura)
 * [Demo](https://oxal.org/projects/sakura/demo/)
@@ -114,7 +108,7 @@ Not fully classless.  You will at least need a `<section class="container">`.
 [![sakura-normalize-3-dark.png](thumbnail/sakura-normalize-3-dark.png)](screenshot/sakura-normalize-3-dark.png)
 
 
-## tacit
+### tacit
 
 * [Repository](https://github.com/yegor256/tacit)
 * [Demo](https://yegor256.github.io/tacit/)
@@ -122,7 +116,7 @@ Not fully classless.  You will at least need a `<section class="container">`.
 [![tacit.png](thumbnail/tacit.png)](screenshot/tacit.png)
 
 
-## W3C Core Styles
+### W3C Core Styles
 
 * [Website](https://www.w3.org/StyleSheets/Core/Overview)
 * [Demo](https://www.w3.org/StyleSheets/Core/preview)
@@ -137,7 +131,7 @@ Not fully classless.  You will at least need a `<section class="container">`.
 [![w3c-core-styles-7-steely.png](thumbnail/w3c-core-styles-7-steely.png)](screenshot/w3c-core-styles-7-steely.png)
 
 
-## water.css
+### water.css
 
 * [Repository](https://github.com/kognise/water.css)
 * [Demo](https://kognise.github.io/water.css/)
@@ -146,12 +140,24 @@ Not fully classless.  You will at least need a `<section class="container">`.
 [![water.css-1-light.png](thumbnail/water.css-1-light.png)](screenshot/water.css-1-light.png)
 
 
-## YoRHa
+### YoRHa
 
 * [Repository](https://github.com/metakirby5/yorha)
 * [Demo](https://metakirby5.github.io/yorha/)
 
 [![yorha.png](thumbnail/yorha.png)](screenshot/yorha.png)
+
+
+## Class-light
+
+These are frameworks that do not force you to apply their classes to many elements but require something like `<div class="container">` or a bit of your own CSS for a page to look right.  They may offer optional classes to style your content.
+
+### Milligram
+
+* [Repository](https://github.com/milligram/milligram)
+* [Demo](https://milligram.io/)
+
+[![milligram.png](thumbnail/milligram.png)](screenshot/milligram.png)
 
 
 ## License
