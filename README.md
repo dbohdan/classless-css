@@ -24,6 +24,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
 * [Class-light](#class-light)
   * [Milligram](#milligram)
   * [mini.css](#minicss)
+  * [Picnic CSS](#picnic-css)
 * [License](#license)
 
 
@@ -176,6 +177,14 @@ These are frameworks that do not force you to apply their classes to many elemen
 * [Demo](https://minicss.org/docs)
 
 [![minicss.png](thumbnail/minicss.png)](screenshot/minicss.png)
+
+
+### Picnic CSS
+
+* [Repository](https://github.com/franciscop/picnic)
+* [Demo](http://picnicss.com/)
+
+[![picnic.png](thumbnail/picnic.png)](screenshot/picnic.png)
 
 
 ## License
