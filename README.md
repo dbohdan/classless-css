@@ -15,6 +15,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
     * [Modest](#modest)
     * [Retro](#retro)
     * [Splendor](#splendor)
+  * [Marx](#marx)
   * [sakura](#sakura)
   * [tacit](#tacit)
   * [W3C Core Styles](#w3c-core-styles)
@@ -95,6 +96,14 @@ This is a list of CSS themes and frameworks that do not require you to add their
 * [Demo](https://markdowncss.github.io/splendor/)
 
 [![markdowncss-splendor.png](thumbnail/markdowncss-splendor.png)](screenshot/markdowncss-splendor.png)
+
+
+### Marx
+
+* [Repository](https://github.com/mblode/marx)
+* [Demo](https://codepen.io/mblode/details/JdYbJj)
+
+[![marx.png](thumbnail/marx.png)](screenshot/marx.png)
 
 
 ### sakura
