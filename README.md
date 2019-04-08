@@ -23,6 +23,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
   * [YoRHa](#yorha)
 * [Class-light](#class-light)
   * [Milligram](#milligram)
+  * [mini.css](#minicss)
 * [License](#license)
 
 
@@ -167,6 +168,14 @@ These are frameworks that do not force you to apply their classes to many elemen
 * [Demo](https://milligram.io/)
 
 [![milligram.png](thumbnail/milligram.png)](screenshot/milligram.png)
+
+
+### mini.css
+
+* [Repository](https://github.com/Chalarangelo/mini.css)
+* [Demo](https://minicss.org/docs)
+
+[![minicss.png](thumbnail/minicss.png)](screenshot/minicss.png)
 
 
 ## License
