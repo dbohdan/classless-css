@@ -18,6 +18,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
   * [Marx](#marx)
   * [sakura](#sakura)
   * [tacit](#tacit)
+  * [Tufte CSS](#tufte-css)
   * [W3C Core Styles](#w3c-core-styles)
   * [water.css](#watercss)
   * [YoRHa](#yorha)
@@ -125,6 +126,14 @@ This is a list of CSS themes and frameworks that do not require you to add their
 * [Demo](https://yegor256.github.io/tacit/)
 
 [![tacit.png](thumbnail/tacit.png)](screenshot/tacit.png)
+
+
+### Tufte CSS
+
+* [Repository](https://github.com/edwardtufte/tufte-css)
+* [Demo](https://edwardtufte.github.io/tufte-css/)
+
+[![tufte-css.png](thumbnail/tufte-css.png)](screenshot/tufte-css.png)
 
 
 ### W3C Core Styles
