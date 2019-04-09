@@ -7,6 +7,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
 
 * [Classless](#classless)
   * [attriCSS](#attricss)
+  * [awsm.css](#awsmcss)
   * [Bahunya](#bahunya)
   * [BareCSS](#barecss)
   * [LatexCSS](#latexcss)
@@ -42,6 +43,21 @@ This is a list of CSS themes and frameworks that do not require you to add their
 [![attricss-2-darkforest-green.png](thumbnail/attricss-2-darkforest-green.png)](screenshot/attricss-2-darkforest-green.png)
 [![attricss-3-darkfairy-pink.png](thumbnail/attricss-3-darkfairy-pink.png)](screenshot/attricss-3-darkfairy-pink.png)
 [![attricss-4-lightfairy-pink.png](thumbnail/attricss-4-lightfairy-pink.png)](screenshot/attricss-4-lightfairy-pink.png)
+
+
+### awsm.css
+
+* [Repository](https://github.com/igoradamenko/awsm.css)
+* [Demo](https://igoradamenko.github.io/awsm.css/elements.html)
+
+[![awsm.css-0.png](thumbnail/awsm.css-0.png)](screenshot/awsm.css-0.png)
+[![awsm.css-1-gondola.png](thumbnail/awsm.css-1-gondola.png)](screenshot/awsm.css-1-gondola.png)
+[![awsm.css-2-mischka.png](thumbnail/awsm.css-2-mischka.png)](screenshot/awsm.css-2-mischka.png)
+[![awsm.css-3-big-stone.png](thumbnail/awsm.css-3-big-stone.png)](screenshot/awsm.css-3-big-stone.png)
+[![awsm.css-4-black.png](thumbnail/awsm.css-4-black.png)](screenshot/awsm.css-4-black.png)
+[![awsm.css-5-tasman.png](thumbnail/awsm.css-5-tasman.png)](screenshot/awsm.css-5-tasman.png)
+[![awsm.css-6-pastel-pink.png](thumbnail/awsm.css-6-pastel-pink.png)](screenshot/awsm.css-6-pastel-pink.png)
+[![awsm.css-7-pearl-lusta.png](thumbnail/awsm.css-7-pearl-lusta.png)](screenshot/awsm.css-7-pearl-lusta.png)
 
 
 ### Bahunya
