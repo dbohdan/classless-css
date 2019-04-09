@@ -29,6 +29,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
   * [Milligram](#milligram)
   * [mini.css](#minicss)
   * [Picnic CSS](#picnic-css)
+  * [Wing](#wing)
 * [License](#license)
 
 
@@ -228,6 +229,14 @@ These are frameworks that do not force you to apply their classes to many elemen
 * [Demo](http://picnicss.com/)
 
 [![picnic.png](thumbnail/picnic.png)](screenshot/picnic.png)
+
+
+### Wing
+
+* [Repository](https://github.com/kbrsh/wing)
+* [Demo](https://kbrsh.github.io/wing/)
+
+[![wing.png](thumbnail/wing.png)](screenshot/wing.png)
 
 
 ## License
