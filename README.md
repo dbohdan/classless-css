@@ -25,6 +25,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
   * [Writ](#writ)
   * [YoRHa](#yorha)
 * [Class-light](#class-light)
+  * [Chota](#chota)
   * [Milligram](#milligram)
   * [mini.css](#minicss)
   * [Picnic CSS](#picnic-css)
@@ -196,6 +197,14 @@ This is a list of CSS themes and frameworks that do not require you to add their
 ## Class-light
 
 These are frameworks that do not force you to apply their classes to many elements but require something like `<div class="container">` or a bit of your own CSS for a page to look right.  They may offer optional classes to style your content.
+
+### Chota
+
+* [Repository](https://github.com/jenil/chota)
+* [Demo](https://jenil.github.io/chota/)
+
+[![chota.png](thumbnail/chota.png)](screenshot/chota.png)
+
 
 ### Milligram
 
