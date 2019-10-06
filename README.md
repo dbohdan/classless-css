@@ -10,6 +10,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
   * [awsm.css](#awsmcss)
   * [Bahunya](#bahunya)
   * [BareCSS](#barecss)
+  * [holiday.css](#holidaycss)
   * [LatexCSS](#latexcss)
   * [Markdown CSS](#markdown-css)
     * [Air](#air)
@@ -77,6 +78,14 @@ This is a list of CSS themes and frameworks that do not require you to add their
 * [Demo](http://barecss.com/)
 
 [![barecss.png](thumbnail/barecss.png)](screenshot/barecss.png)
+
+
+### holiday.css
+
+* [Repository](https://github.com/EvgenyOrekhov/holiday.css)
+* [Demo](https://evgenyorekhov.github.io/holiday.css/src/index.html)
+
+[![holiday.css.png](thumbnail/holiday.css.png)](screenshot/holiday.css.png)
 
 
 ### LatexCSS
