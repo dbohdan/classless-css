@@ -147,6 +147,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
 [![sakura-normalize-1-earthly.png](thumbnail/sakura-normalize-1-earthly.png)](screenshot/sakura-normalize-1-earthly.png)
 [![sakura-normalize-2-vader.png](thumbnail/sakura-normalize-2-vader.png)](screenshot/sakura-normalize-2-vader.png)
 [![sakura-normalize-3-dark.png](thumbnail/sakura-normalize-3-dark.png)](screenshot/sakura-normalize-3-dark.png)
+[![sakura-normalize-4-dark-solarized.png](thumbnail/sakura-normalize-4-dark-solarized.png)](screenshot/sakura-normalize-4-dark-solarized.png)
 
 
 ### Stylize.css
