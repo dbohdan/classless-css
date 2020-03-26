@@ -19,6 +19,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
     * [Splendor](#splendor)
   * [Marx](#marx)
   * [sakura](#sakura)
+  * [style.css](#stylecss)
   * [Stylize.css](#stylizecss)
   * [tacit](#tacit)
   * [Tufte CSS](#tufte-css)
@@ -150,11 +151,18 @@ This is a list of CSS themes and frameworks that do not require you to add their
 [![sakura-normalize-4-dark-solarized.png](thumbnail/sakura-normalize-4-dark-solarized.png)](screenshot/sakura-normalize-4-dark-solarized.png)
 
 
+### style.css
+
+* [Repository](https://github.com/css-pkg/style.css)
+* [Demo](https://css-pkg.github.io/style.css/)
+
+[![style.css.png](thumbnail/style.css.png)](screenshot/style.css.png)
+
+
 ### Stylize.css
 
 * [Repository](https://github.com/vasanthv/stylize.css)
-* [Demo](https://vasanthv.github.io/stylize.css/demo.html
-)
+* [Demo](https://vasanthv.github.io/stylize.css/demo.html)
 
 [![stylize.css.png](thumbnail/stylize.css.png)](screenshot/stylize.css.png)
 
