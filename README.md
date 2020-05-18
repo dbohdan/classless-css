@@ -273,7 +273,7 @@ These are frameworks that do not force you to apply their classes to many elemen
 [![chota.png](thumbnail/chota.png)](screenshot/chota.png)
 
 
-#### concrete.css
+### concrete.css
 
 * [Repository](https://github.com/louismerlin/concrete.css)
 * [Demo](https://concrete.style/)
