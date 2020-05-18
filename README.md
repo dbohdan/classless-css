@@ -36,6 +36,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
   * [mini.css](#minicss)
   * [Picnic CSS](#picnic-css)
   * [Wing](#wing)
+* [See also](#see-also)
 * [License](#license)
 
 
@@ -292,6 +293,11 @@ These are frameworks that do not force you to apply their classes to many elemen
 * [Demo](https://kbrsh.github.io/wing/)
 
 [![wing.png](thumbnail/wing.png)](screenshot/wing.png)
+
+
+## See also
+
+* [Drop-in switcher for previewing minimal CSS frameworks](https://github.com/dohliam/dropin-minimal-css)
 
 
 ## License
