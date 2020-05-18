@@ -19,6 +19,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
     * [Splendor](#splendor)
   * [MVP.css](#mvpcss)
   * [Marx](#marx)
+  * [new.css](#newcss)
   * [sakura](#sakura)
   * [style.css](#stylecss)
   * [Stylize.css](#stylizecss)
@@ -138,6 +139,14 @@ This is a list of CSS themes and frameworks that do not require you to add their
 * [Demo](https://codepen.io/mblode/details/JdYbJj)
 
 [![marx.png](thumbnail/marx.png)](screenshot/marx.png)
+
+
+### new.css
+
+* [Repository](https://github.com/xz/new.css)
+* [Demo](https://newcss.net/demo/)
+
+[![new.css.png](thumbnail/new.css.png)](screenshot/new.css.png)
 
 
 ### MVP.css
