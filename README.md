@@ -31,6 +31,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
   * [YoRHa](#yorha)
 * [Class-light](#class-light)
   * [Chota](#chota)
+  * [concrete.css](#concretecss)
   * [Milligram](#milligram)
   * [mini.css](#minicss)
   * [Picnic CSS](#picnic-css)
@@ -251,6 +252,14 @@ These are frameworks that do not force you to apply their classes to many elemen
 * [Demo](https://jenil.github.io/chota/)
 
 [![chota.png](thumbnail/chota.png)](screenshot/chota.png)
+
+
+#### concrete.css
+
+* [Repository](https://github.com/louismerlin/concrete.css)
+* [Demo](https://concrete.style/)
+
+[![concrete.css.png](thumbnail/concrete.css.png)](screenshot/concrete.css.png)
 
 
 ### Milligram
