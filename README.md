@@ -17,8 +17,9 @@ This is a list of CSS themes and frameworks that do not require you to add their
     * [Modest](#modest)
     * [Retro](#retro)
     * [Splendor](#splendor)
-  * [MVP.css](#mvpcss)
   * [Marx](#marx)
+  * [MercuryCSS](#mercurycss)
+  * [MVP.css](#mvpcss)
   * [new.css](#newcss)
   * [sakura](#sakura)
   * [style.css](#stylecss)
@@ -143,12 +144,12 @@ This is a list of CSS themes and frameworks that do not require you to add their
 [![marx.png](thumbnail/marx.png)](screenshot/marx.png)
 
 
-### new.css
+### MercuryCSS
 
-* [Repository](https://github.com/xz/new.css)
-* [Demo](https://newcss.net/demo/)
+* [Repository](https://github.com/wmeredith/MercuryCSS)
+* [Demo](https://wmeredith.github.io/MercuryCSS/)
 
-[![new.css.png](thumbnail/new.css.png)](screenshot/new.css.png)
+[![mercurycss.png](thumbnail/mercurycss.png)](screenshot/mercurycss.png)
 
 
 ### MVP.css
@@ -157,6 +158,14 @@ This is a list of CSS themes and frameworks that do not require you to add their
 * [Demo](https://andybrewer.github.io/mvp/)
 
 [![mvp.css.png](thumbnail/mvp.css.png)](screenshot/mvp.css.png)
+
+
+### new.css
+
+* [Repository](https://github.com/xz/new.css)
+* [Demo](https://newcss.net/demo/)
+
+[![new.css.png](thumbnail/new.css.png)](screenshot/new.css.png)
 
 
 ### sakura
