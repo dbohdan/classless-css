@@ -20,8 +20,8 @@ This is a list of CSS themes and frameworks that do not require you to add their
   * [Marx](#marx)
   * [MercuryCSS](#mercurycss)
   * [MVP.css](#mvpcss)
-  * [no-class.css](#noclasscss)
   * [new.css](#newcss)
+  * [no-class.css](#no-classcss)
   * [sakura](#sakura)
   * [style.css](#stylecss)
   * [Stylize.css](#stylizecss)
@@ -169,7 +169,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
 [![new.css.png](thumbnail/new.css.png)](screenshot/new.css.png)
 
 
-#### no-class.css
+### no-class.css
 
 * [Repository](https://github.com/davidpaulsson/no-class)
 * [Demo](https://davidpaulsson.se/no-class/)
