@@ -82,7 +82,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
 ### BareCSS
 
 * [Repository](https://github.com/longsien/BareCSS)
-* [Demo](http://barecss.com/)
+* [Demo (archived)](https://web.archive.org/web/20191010034508/http://barecss.com/)
 
 [![barecss.png](thumbnail/barecss.png)](screenshot/barecss.png)
 
