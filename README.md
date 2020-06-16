@@ -23,7 +23,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
   * [MVP.css](#mvpcss)
   * [new.css](#newcss)
   * [no-class.css](#no-classcss)
-  * [ridgecss](#ridgecss)
+  * [ridge.css](#ridgecss)
   * [sakura](#sakura)
   * [style.css](#stylecss)
   * [Stylize.css](#stylizecss)
