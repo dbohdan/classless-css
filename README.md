@@ -23,6 +23,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
   * [MVP.css](#mvpcss)
   * [new.css](#newcss)
   * [no-class.css](#no-classcss)
+  * [ridgecss](#ridgecss)
   * [sakura](#sakura)
   * [style.css](#stylecss)
   * [Stylize.css](#stylizecss)
@@ -186,13 +187,22 @@ This is a list of CSS themes and frameworks that do not require you to add their
 [![no-class.css.png](thumbnail/no-class.css.png)](screenshot/no-class.css.png)
 
 
+### ridge.css
+
+* [Repository](https://github.com/swlkr/ridgecss)
+* [Demo](https://ridgecss.com/)
+
+[![ridge.css-light.png](thumbnail/ridge.css-light.png)](screenshot/ridge.css-light.png)
+[![ridge.css-dark.png](thumbnail/ridge.css-dark.png)](screenshot/ridge.css-dark.png)
+
+
 ### sakura
 
 * [Repository](https://github.com/oxalorg/sakura)
 * [Demo](https://oxal.org/projects/sakura/demo/)
 
-[![sakura-normalize-0.png](thumbnail/sakura-normalize-0.png)](screenshot/sakura-normalize-0.png)
-[![sakura-normalize-1-earthly.png](thumbnail/sakura-normalize-1-earthly.png)](screenshot/sakura-normalize-1-earthly.png)
+[![ridge.css-light.png](thumbnail/ridge.css-light.png)](screenshot/ridge.css-light.png)
+[![ridge.css-dark.png](thumbnail/ridge.css-dark.png)](screenshot/ridge.css-dark.png)
 [![sakura-normalize-2-vader.png](thumbnail/sakura-normalize-2-vader.png)](screenshot/sakura-normalize-2-vader.png)
 [![sakura-normalize-3-dark.png](thumbnail/sakura-normalize-3-dark.png)](screenshot/sakura-normalize-3-dark.png)
 [![sakura-normalize-4-dark-solarized.png](thumbnail/sakura-normalize-4-dark-solarized.png)](screenshot/sakura-normalize-4-dark-solarized.png)
