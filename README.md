@@ -35,6 +35,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
   * [YoRHa](#yorha)
 * [Class-light](#class-light)
   * [Chota](#chota)
+  * [Classless.css](#classlesscss)
   * [concrete.css](#concretecss)
   * [Milligram](#milligram)
   * [mini.css](#minicss)
@@ -290,6 +291,14 @@ These are frameworks that do not force you to apply their classes to many elemen
 * [Demo](https://jenil.github.io/chota/)
 
 [![chota.png](thumbnail/chota.png)](screenshot/chota.png)
+
+
+### Classless.css
+
+* [Repository](https://github.com/emareg/classlesscss)
+* [Demo](http://classless.de/)
+
+[![classless.css.png](thumbnail/classless.css.png)](screenshot/classless.css.png)
 
 
 ### concrete.css
