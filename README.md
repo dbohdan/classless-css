@@ -202,8 +202,8 @@ This is a list of CSS themes and frameworks that do not require you to add their
 * [Repository](https://github.com/oxalorg/sakura)
 * [Demo](https://oxal.org/projects/sakura/demo/)
 
-[![ridge.css-light.png](thumbnail/ridge.css-light.png)](screenshot/ridge.css-light.png)
-[![ridge.css-dark.png](thumbnail/ridge.css-dark.png)](screenshot/ridge.css-dark.png)
+[![sakura-normalize-0.png](thumbnail/sakura-normalize-0.png)](screenshot/sakura-normalize-0.png)
+[![sakura-normalize-1-earthly.png](thumbnail/sakura-normalize-1-earthly.png)](screenshot/sakura-normalize-1-earthly.png)
 [![sakura-normalize-2-vader.png](thumbnail/sakura-normalize-2-vader.png)](screenshot/sakura-normalize-2-vader.png)
 [![sakura-normalize-3-dark.png](thumbnail/sakura-normalize-3-dark.png)](screenshot/sakura-normalize-3-dark.png)
 [![sakura-normalize-4-dark-solarized.png](thumbnail/sakura-normalize-4-dark-solarized.png)](screenshot/sakura-normalize-4-dark-solarized.png)
