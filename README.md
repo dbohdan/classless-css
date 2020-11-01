@@ -110,7 +110,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
 ### holiday.css
 
 * [Repository](https://github.com/EvgenyOrekhov/holiday.css) ![GitHub stars](https://img.shields.io/github/stars/EvgenyOrekhov/holiday.css?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/EvgenyOrekhov/holiday.css?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/EvgenyOrekhov/holiday.css?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/EvgenyOrekhov/holiday.css?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/EvgenyOrekhov/holiday.css?style=flat-square)
-* [Demo](https://evgenyorekhov.github.io/holiday.css/src/index.html)
+* [Demo](https://holidaycss.js.org/)
 
 [![holiday.css.png](thumbnail/holiday.css.png)](screenshot/holiday.css.png)
 
