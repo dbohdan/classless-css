@@ -26,6 +26,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
   * [no-class.css](#no-classcss)
   * [ridge.css](#ridgecss)
   * [sakura](#sakura)
+  * [SPCSS](#spcss)
   * [style.css](#stylecss)
   * [Stylize.css](#stylizecss)
   * [tacit](#tacit)
@@ -216,6 +217,14 @@ This is a list of CSS themes and frameworks that do not require you to add their
 [![sakura-normalize-2-vader.png](thumbnail/sakura-normalize-2-vader.png)](screenshot/sakura-normalize-2-vader.png)
 [![sakura-normalize-3-dark.png](thumbnail/sakura-normalize-3-dark.png)](screenshot/sakura-normalize-3-dark.png)
 [![sakura-normalize-4-dark-solarized.png](thumbnail/sakura-normalize-4-dark-solarized.png)](screenshot/sakura-normalize-4-dark-solarized.png)
+
+
+### SPCSS
+
+* [Repository](https://github.com/susam/spcss) ![GitHub stars](https://img.shields.io/github/stars/susam/spcss?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/susam/spcss?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/susam/spcss?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/susam/spcss?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/susam/spcss?style=flat-square)
+* [Demo](https://susam.github.io/spcss/)
+
+[![spcss.png](thumbnail/spcss.png)](screenshot/spcss.png)
 
 
 ### style.css
