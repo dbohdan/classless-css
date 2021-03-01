@@ -10,6 +10,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
   * [axist](#axist)
   * [awsm.css](#awsmcss)
   * [Bahunya](#bahunya)
+  * [Bamboo CSS](#bamboo-css)
   * [BareCSS](#barecss)
   * [Basic.css](#basiccss)
   * [holiday.css](#holidaycss)
@@ -90,6 +91,14 @@ This is a list of CSS themes and frameworks that do not require you to add their
 * [Demo](https://kimeiga.github.io/bahunya/)
 
 [![bahunya.png](thumbnail/bahunya.png)](screenshot/bahunya.png)
+
+
+### Bamboo CSS
+
+* [Repository](https://github.com/rilwis/bamboo) ![GitHub stars](https://img.shields.io/github/stars/rilwis/bamboo?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/rilwis/bamboo?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/rilwis/bamboo?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/rilwis/bamboo?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/rilwis/bamboo?style=flat-square)
+* [Demo (archived)](https://rilwis.github.io/bamboo/demo/)
+
+[![bamboo-css.png](thumbnail/bamboo-css.png)](screenshot/bamboo-css.png)
 
 
 ### BareCSS
