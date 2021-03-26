@@ -1,4 +1,7 @@
 #! /usr/bin/env tclsh
+# Generate the screenshot and its thumbnail for a framework.  Print the
+# Markdown to add to README.md.  To install the dependencies on Debian/Ubuntu:
+# $ sudo apt install imagemagick optipng tcl tcllib wkhtmltopdf
 
 package require fileutil
 
