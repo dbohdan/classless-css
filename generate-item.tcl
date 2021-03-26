@@ -2,7 +2,7 @@
 
 package require fileutil
 
-proc screenshot {name css github demo} {
+proc [info script] {name css github demo} {
     set src screenshot-page.html
     set dest temp.html
 
@@ -37,4 +37,4 @@ proc markup {name github demo filename} {
 [![$filename](thumbnail/$filename)](screenshot/$filename)}
 }
 
-screenshot {*}$argv
+[info script] {*}$argv
