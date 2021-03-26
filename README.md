@@ -13,6 +13,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
   * [Bamboo CSS](#bamboo-css)
   * [BareCSS](#barecss)
   * [Basic.css](#basiccss)
+  * [Downstyler](#downstyler)
   * [holiday.css](#holidaycss)
   * [LatexCSS](#latexcss)
   * [Markdown CSS](#markdown-css)
@@ -115,6 +116,14 @@ This is a list of CSS themes and frameworks that do not require you to add their
 * [Demo](https://vladocar.github.io/Basic.css/)
 
 [![basic.css.png](thumbnail/basic.css.png)](screenshot/basic.css.png)
+
+
+### Downstyler
+
+* [Repository](https://github.com/https://github.com/waldyrious/downstyler) ![GitHub stars](https://img.shields.io/github/stars/https://github.com/waldyrious/downstyler?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/https://github.com/waldyrious/downstyler?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/https://github.com/waldyrious/downstyler?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/https://github.com/waldyrious/downstyler?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/https://github.com/waldyrious/downstyler?style=flat-square)
+* [Demo](https://waldyrious.github.io/downstyler)
+
+[![downstyler.png](thumbnail/downstyler.png)](screenshot/downstyler.png)
 
 
 ### holiday.css
