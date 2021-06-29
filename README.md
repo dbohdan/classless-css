@@ -26,6 +26,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
   * [MVP.css](#mvpcss)
   * [new.css](#newcss)
   * [no-class.css](#no-classcss)
+  * [Pico.css](#picocss)
   * [ridge.css](#ridgecss)
   * [sakura](#sakura)
   * [Simple.css](#simplecss)
@@ -45,7 +46,6 @@ This is a list of CSS themes and frameworks that do not require you to add their
   * [Milligram](#milligram)
   * [mini.css](#minicss)
   * [Picnic CSS](#picnic-css)
-  * [Pico.css](#picocss)
   * [Wing](#wing)
 * [See also](#see-also)
 * [License](#license)
@@ -218,6 +218,16 @@ This is a list of CSS themes and frameworks that do not require you to add their
 [![no-class.css.png](thumbnail/no-class.css.png)](screenshot/no-class.css.png)
 
 
+### Pico.css
+
+Pico.css also has a class-light version, which is its main version.
+
+* [Repository](https://github.com/https://github.com/picocss/pico) ![GitHub stars](https://img.shields.io/github/stars/https://github.com/picocss/pico?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/https://github.com/picocss/pico?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/https://github.com/picocss/pico?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/https://github.com/picocss/pico?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/https://github.com/picocss/pico?style=flat-square)
+* [Demo](https://picocss.com/examples/preview/)
+
+[![pico-css.png](thumbnail/pico-css.png)](screenshot/pico-css.png)
+
+
 ### ridge.css
 
 * [Repository](https://github.com/swlkr/ridgecss) ![GitHub stars](https://img.shields.io/github/stars/swlkr/ridgecss?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/swlkr/ridgecss?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/swlkr/ridgecss?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/swlkr/ridgecss?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/swlkr/ridgecss?style=flat-square)
@@ -377,16 +387,6 @@ These are frameworks that do not force you to apply their classes to many elemen
 * [Demo](http://picnicss.com/)
 
 [![picnic.png](thumbnail/picnic.png)](screenshot/picnic.png)
-
-
-### Pico.css
-
-Pico.css also has a classless version.
-
-* [Repository](https://github.com/https://github.com/picocss/pico) ![GitHub stars](https://img.shields.io/github/stars/https://github.com/picocss/pico?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/https://github.com/picocss/pico?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/https://github.com/picocss/pico?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/https://github.com/picocss/pico?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/https://github.com/picocss/pico?style=flat-square)
-* [Demo](https://picocss.com/examples/preview/)
-
-[![pico-css.png](thumbnail/pico-css.png)](screenshot/pico-css.png)
 
 
 ### Wing
