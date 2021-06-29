@@ -44,6 +44,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
   * [Milligram](#milligram)
   * [mini.css](#minicss)
   * [Picnic CSS](#picnic-css)
+  * [Pico.css](#pico-css)
   * [Wing](#wing)
 * [See also](#see-also)
 * [License](#license)
@@ -368,6 +369,14 @@ These are frameworks that do not force you to apply their classes to many elemen
 
 [![picnic.png](thumbnail/picnic.png)](screenshot/picnic.png)
 
+### Pico.css
+
+Pico.css also has a classless version.
+
+* [Repository](https://github.com/https://github.com/picocss/pico) ![GitHub stars](https://img.shields.io/github/stars/https://github.com/picocss/pico?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/https://github.com/picocss/pico?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/https://github.com/picocss/pico?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/https://github.com/picocss/pico?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/https://github.com/picocss/pico?style=flat-square)
+* [Demo](https://picocss.com/examples/preview/)
+
+[![pico-css.png](thumbnail/pico-css.png)](screenshot/pico-css.png)
 
 ### Wing
 
