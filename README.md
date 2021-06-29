@@ -28,6 +28,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
   * [no-class.css](#no-classcss)
   * [ridge.css](#ridgecss)
   * [sakura](#sakura)
+  * [Simple.css](#simplecss)
   * [SPCSS](#spcss)
   * [style.css](#stylecss)
   * [Stylize.css](#stylizecss)
@@ -44,7 +45,7 @@ This is a list of CSS themes and frameworks that do not require you to add their
   * [Milligram](#milligram)
   * [mini.css](#minicss)
   * [Picnic CSS](#picnic-css)
-  * [Pico.css](#pico-css)
+  * [Pico.css](#picocss)
   * [Wing](#wing)
 * [See also](#see-also)
 * [License](#license)
@@ -238,6 +239,14 @@ This is a list of CSS themes and frameworks that do not require you to add their
 [![sakura-normalize-4-dark-solarized.png](thumbnail/sakura-normalize-4-dark-solarized.png)](screenshot/sakura-normalize-4-dark-solarized.png)
 
 
+### Simple.css
+
+* [Repository](https://github.com/https://github.com/kevquirk/simple.css) ![GitHub stars](https://img.shields.io/github/stars/https://github.com/kevquirk/simple.css?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/https://github.com/kevquirk/simple.css?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/https://github.com/kevquirk/simple.css?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/https://github.com/kevquirk/simple.css?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/https://github.com/kevquirk/simple.css?style=flat-square)
+* [Demo](https://simplecss.org/demo)
+
+[![simple-css.png](thumbnail/simple-css.png)](screenshot/simple-css.png)
+
+
 ### SPCSS
 
 * [Repository](https://github.com/susam/spcss) ![GitHub stars](https://img.shields.io/github/stars/susam/spcss?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/susam/spcss?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/susam/spcss?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/susam/spcss?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/susam/spcss?style=flat-square)
@@ -369,6 +378,7 @@ These are frameworks that do not force you to apply their classes to many elemen
 
 [![picnic.png](thumbnail/picnic.png)](screenshot/picnic.png)
 
+
 ### Pico.css
 
 Pico.css also has a classless version.
@@ -377,6 +387,7 @@ Pico.css also has a classless version.
 * [Demo](https://picocss.com/examples/preview/)
 
 [![pico-css.png](thumbnail/pico-css.png)](screenshot/pico-css.png)
+
 
 ### Wing
 
