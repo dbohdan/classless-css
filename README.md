@@ -1,6 +1,6 @@
 # Classless CSS
 
-This is a list of CSS themes and frameworks that do not require you to add their classes to your HTML elements.  It means you can quickly style a plain HTML page.  This is useful, for example, in prototyping.
+This is a list of classless CSS themes and frameworks.  "Classless" means a style sheet does not define special classes you must add to your HTML elements to style these elements.  As a result, you can style any plain-HTML page just by linking to the style sheet.  This is useful, for example, in prototyping.
 
 
 ## Contents
