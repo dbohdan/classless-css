@@ -99,7 +99,7 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
 ### Bamboo CSS
 
 * [Repository](https://github.com/rilwis/bamboo) ![GitHub stars](https://img.shields.io/github/stars/rilwis/bamboo?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/rilwis/bamboo?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/rilwis/bamboo?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/rilwis/bamboo?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/rilwis/bamboo?style=flat-square)
-* [Demo (archived)](https://rilwis.github.io/bamboo/demo/)
+* [Demo](https://rilwis.github.io/bamboo/demo/)
 
 [![bamboo-css.png](thumbnail/bamboo-css.png)](screenshot/bamboo-css.png)
 
