@@ -4,8 +4,7 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
 
 
 ## Contents
-
-* [Classless](#classless)
+- [Classless](#classless)
   * [attriCSS](#attricss)
   * [axist](#axist)
   * [awsm.css](#awsmcss)
@@ -17,10 +16,10 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
   * [holiday.css](#holidaycss)
   * [LatexCSS](#latexcss)
   * [Markdown CSS](#markdown-css)
-    * [Air](#air)
-    * [Modest](#modest)
-    * [Retro](#retro)
-    * [Splendor](#splendor)
+    + [Air](#air)
+    + [Modest](#modest)
+    + [Retro](#retro)
+    + [Splendor](#splendor)
   * [Marx](#marx)
   * [MercuryCSS](#mercurycss)
   * [MVP.css](#mvpcss)
@@ -39,7 +38,7 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
   * [water.css](#watercss)
   * [Writ](#writ)
   * [YoRHa](#yorha)
-* [Class-light](#class-light)
+- [Class-light](#class-light)
   * [Chota](#chota)
   * [Classless.css](#classlesscss)
   * [concrete.css](#concretecss)
@@ -47,9 +46,10 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
   * [mini.css](#minicss)
   * [Picnic CSS](#picnic-css)
   * [Wing](#wing)
-* [See also](#see-also)
-* [License](#license)
+- [See also](#see-also)
+- [License](#license)
 
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Classless
 
