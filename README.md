@@ -251,7 +251,7 @@ Pico.css also has a class-light version, which is its main version.
 
 ### Simple.css
 
-* [Repository](https://github.com/https://github.com/kevquirk/simple.css) ![GitHub stars](https://img.shields.io/github/stars/https://github.com/kevquirk/simple.css?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/https://github.com/kevquirk/simple.css?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/https://github.com/kevquirk/simple.css?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/https://github.com/kevquirk/simple.css?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/https://github.com/kevquirk/simple.css?style=flat-square)
+* [Repository](https://github.com/kevquirk/simple.css) ![GitHub stars](https://img.shields.io/github/stars/https://github.com/kevquirk/simple.css?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/https://github.com/kevquirk/simple.css?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/https://github.com/kevquirk/simple.css?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/https://github.com/kevquirk/simple.css?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/https://github.com/kevquirk/simple.css?style=flat-square)
 * [Demo](https://simplecss.org/demo)
 
 [![simple-css.png](thumbnail/simple-css.png)](screenshot/simple-css.png)
