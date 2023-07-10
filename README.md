@@ -13,6 +13,8 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
   * [Bamboo CSS](#bamboo-css)
   * [BareCSS](#barecss)
   * [Basic.css](#basiccss)
+  * [Classless.css](#classlesscss)
+  * [concrete.css](#concretecss)
   * [Downstyler](#downstyler)
   * [holiday.css](#holidaycss)
   * [LatexCSS](#latexcss)
@@ -41,8 +43,6 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
   * [YoRHa](#yorha)
 * [Class-light](#class-light)
   * [Chota](#chota)
-  * [Classless.css](#classlesscss)
-  * [concrete.css](#concretecss)
   * [Milligram](#milligram)
   * [mini.css](#minicss)
   * [Picnic CSS](#picnic-css)
@@ -118,6 +118,22 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
 * [Demo](https://vladocar.github.io/Basic.css/)
 
 [![basic.css.png](thumbnail/basic.css.png)](screenshot/basic.css.png)
+
+
+### Classless.css
+
+* [Repository](https://github.com/emareg/classlesscss) ![GitHub stars](https://img.shields.io/github/stars/emareg/classlesscss?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/emareg/classlesscss?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/emareg/classlesscss?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/emareg/classlesscss?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/emareg/classlesscss?style=flat-square)
+* [Demo](http://classless.de/)
+
+[![classless.css.png](thumbnail/classless.css.png)](screenshot/classless.css.png)
+
+
+### concrete.css
+
+* [Repository](https://github.com/louismerlin/concrete.css) ![GitHub stars](https://img.shields.io/github/stars/louismerlin/concrete.css?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/louismerlin/concrete.css?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/louismerlin/concrete.css?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/louismerlin/concrete.css?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/louismerlin/concrete.css?style=flat-square)
+* [Demo](https://concrete.style/)
+
+[![concrete.css.png](thumbnail/concrete.css.png)](screenshot/concrete.css.png)
 
 
 ### Downstyler
@@ -347,22 +363,6 @@ These are frameworks that do not force you to apply their classes to many elemen
 * [Demo](https://jenil.github.io/chota/)
 
 [![chota.png](thumbnail/chota.png)](screenshot/chota.png)
-
-
-### Classless.css
-
-* [Repository](https://github.com/emareg/classlesscss) ![GitHub stars](https://img.shields.io/github/stars/emareg/classlesscss?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/emareg/classlesscss?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/emareg/classlesscss?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/emareg/classlesscss?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/emareg/classlesscss?style=flat-square)
-* [Demo](http://classless.de/)
-
-[![classless.css.png](thumbnail/classless.css.png)](screenshot/classless.css.png)
-
-
-### concrete.css
-
-* [Repository](https://github.com/louismerlin/concrete.css) ![GitHub stars](https://img.shields.io/github/stars/louismerlin/concrete.css?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/louismerlin/concrete.css?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/louismerlin/concrete.css?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/louismerlin/concrete.css?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/louismerlin/concrete.css?style=flat-square)
-* [Demo](https://concrete.style/)
-
-[![concrete.css.png](thumbnail/concrete.css.png)](screenshot/concrete.css.png)
 
 
 ### Milligram
