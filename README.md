@@ -68,8 +68,8 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
 
 ### awsm.css
 
-* [Repository](https://github.com/igoradamenko/awsm.css) ![GitHub stars](https://img.shields.io/github/stars/igoradamenko/awsm.css?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/igoradamenko/awsm.css?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/igoradamenko/awsm.css?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/igoradamenko/awsm.css?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/igoradamenko/awsm.css?style=flat-square)
-* [Demo](https://igoradamenko.github.io/awsm.css/elements.html)
+* [Website](https://igoradamenko.com/awsm.css/v2/)
+* [Demo](https://web.archive.org/web/20230221174615/https://igoradamenko.github.io/awsm.css/elements.html)
 
 [![awsm.css-0.png](thumbnail/awsm.css-0.png)](screenshot/awsm.css-0.png)
 [![awsm.css-1-gondola.png](thumbnail/awsm.css-1-gondola.png)](screenshot/awsm.css-1-gondola.png)
