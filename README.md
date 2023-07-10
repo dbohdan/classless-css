@@ -69,7 +69,7 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
 ### awsm.css
 
 * [Website](https://igoradamenko.com/awsm.css/v2/)
-* [Demo](https://web.archive.org/web/20230221174615/https://igoradamenko.github.io/awsm.css/elements.html)
+* [Demo](https://igoradamenko.com/awsm.css/v2/elements.html)
 
 [![awsm.css-0.png](thumbnail/awsm.css-0.png)](screenshot/awsm.css-0.png)
 [![awsm.css-1-gondola.png](thumbnail/awsm.css-1-gondola.png)](screenshot/awsm.css-1-gondola.png)
