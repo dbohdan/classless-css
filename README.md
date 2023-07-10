@@ -5,50 +5,51 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
 
 ## Contents
 
-* [Classless](#classless)
-  * [attriCSS](#attricss)
-  * [axist](#axist)
-  * [awsm.css](#awsmcss)
-  * [Bahunya](#bahunya)
-  * [Bamboo CSS](#bamboo-css)
-  * [BareCSS](#barecss)
-  * [Basic.css](#basiccss)
-  * [Classless.css](#classlesscss)
-  * [concrete.css](#concretecss)
-  * [Downstyler](#downstyler)
-  * [holiday.css](#holidaycss)
-  * [LatexCSS](#latexcss)
-  * [Markdown CSS](#markdown-css)
-    * [Air](#air)
-    * [Modest](#modest)
-    * [Retro](#retro)
-    * [Splendor](#splendor)
-  * [Marx](#marx)
-  * [MercuryCSS](#mercurycss)
-  * [MVP.css](#mvpcss)
-  * [new.css](#newcss)
-  * [no-class.css](#no-classcss)
-  * [Pico.css](#picocss)
-  * [ridge.css](#ridgecss)
-  * [sakura](#sakura)
-  * [Simple.css](#simplecss)
-  * [SPCSS](#spcss)
-  * [style.css](#stylecss)
-  * [Stylize.css](#stylizecss)
-  * [tacit](#tacit)
-  * [Tufte CSS](#tufte-css)
-  * [W3C Core Styles](#w3c-core-styles)
-  * [water.css](#watercss)
-  * [Writ](#writ)
-  * [YoRHa](#yorha)
-* [Class-light](#class-light)
-  * [Chota](#chota)
-  * [Milligram](#milligram)
-  * [mini.css](#minicss)
-  * [Picnic CSS](#picnic-css)
-  * [Wing](#wing)
-* [See also](#see-also)
-* [License](#license)
+- [Classless CSS](#classless-css)
+  * [Contents](#contents)
+  * [Classless](#classless)
+    + [attriCSS](#attricss)
+    + [awsm.css](#awsmcss)
+    + [axist](#axist)
+    + [Bahunya](#bahunya)
+    + [Bamboo CSS](#bamboo-css)
+    + [BareCSS](#barecss)
+    + [Basic.css](#basiccss)
+    + [Classless.css](#classlesscss)
+    + [concrete.css](#concretecss)
+    + [Downstyler](#downstyler)
+    + [holiday.css](#holidaycss)
+    + [LatexCSS](#latexcss)
+    + [Markdown CSS — Air](#markdown-css--air)
+    + [Markdown CSS — Modest](#markdown-css--modest)
+    + [Markdown CSS — Retro](#markdown-css--retro)
+    + [Markdown CSS — Splendor](#markdown-css--splendor)
+    + [Marx](#marx)
+    + [MercuryCSS](#mercurycss)
+    + [MVP.css](#mvpcss)
+    + [new.css](#newcss)
+    + [no-class.css](#no-classcss)
+    + [Pico.css](#picocss)
+    + [ridge.css](#ridgecss)
+    + [sakura](#sakura)
+    + [Simple.css](#simplecss)
+    + [SPCSS](#spcss)
+    + [style.css](#stylecss)
+    + [Stylize.css](#stylizecss)
+    + [tacit](#tacit)
+    + [Tufte CSS](#tufte-css)
+    + [W3C Core Styles](#w3c-core-styles)
+    + [water.css](#watercss)
+    + [Writ](#writ)
+    + [YoRHa](#yorha)
+  * [Class-light](#class-light)
+    + [Chota](#chota)
+    + [Milligram](#milligram)
+    + [mini.css](#minicss)
+    + [Picnic CSS](#picnic-css)
+    + [Wing](#wing)
+  * [See also](#see-also)
+  * [License](#license)
 
 
 ## Classless
@@ -65,14 +66,6 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
 [![attricss-4-lightfairy-pink.png](thumbnail/attricss-4-lightfairy-pink.png)](screenshot/attricss-4-lightfairy-pink.png)
 
 
-### axist
-
-* [Repository](https://github.com/ruanmartinelli/axist) ![GitHub stars](https://img.shields.io/github/stars/ruanmartinelli/axist?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/ruanmartinelli/axist?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/ruanmartinelli/axist?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/ruanmartinelli/axist?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/ruanmartinelli/axist?style=flat-square)
-* [Demo](https://ruanmartinelli.github.io/axist/)
-
-[![axist.png](thumbnail/axist.png)](screenshot/axist.png)
-
-
 ### awsm.css
 
 * [Repository](https://github.com/igoradamenko/awsm.css) ![GitHub stars](https://img.shields.io/github/stars/igoradamenko/awsm.css?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/igoradamenko/awsm.css?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/igoradamenko/awsm.css?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/igoradamenko/awsm.css?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/igoradamenko/awsm.css?style=flat-square)
@@ -86,6 +79,14 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
 [![awsm.css-5-tasman.png](thumbnail/awsm.css-5-tasman.png)](screenshot/awsm.css-5-tasman.png)
 [![awsm.css-6-pastel-pink.png](thumbnail/awsm.css-6-pastel-pink.png)](screenshot/awsm.css-6-pastel-pink.png)
 [![awsm.css-7-pearl-lusta.png](thumbnail/awsm.css-7-pearl-lusta.png)](screenshot/awsm.css-7-pearl-lusta.png)
+
+
+### axist
+
+* [Repository](https://github.com/ruanmartinelli/axist) ![GitHub stars](https://img.shields.io/github/stars/ruanmartinelli/axist?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/ruanmartinelli/axist?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/ruanmartinelli/axist?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/ruanmartinelli/axist?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/ruanmartinelli/axist?style=flat-square)
+* [Demo](https://ruanmartinelli.github.io/axist/)
+
+[![axist.png](thumbnail/axist.png)](screenshot/axist.png)
 
 
 ### Bahunya
@@ -107,7 +108,7 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
 ### BareCSS
 
 * [Repository](https://github.com/longsien/BareCSS) ![GitHub stars](https://img.shields.io/github/stars/longsien/BareCSS?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/longsien/BareCSS?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/longsien/BareCSS?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/longsien/BareCSS?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/longsien/BareCSS?style=flat-square)
-* [Demo (archived)](https://web.archive.org/web/20191010034508/http://barecss.com/)
+* [Demo](https://web.archive.org/web/20191010034508/http://barecss.com/)
 
 [![barecss.png](thumbnail/barecss.png)](screenshot/barecss.png)
 
@@ -160,9 +161,7 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
 [![latex.png](thumbnail/latex.png)](screenshot/latex.png)
 
 
-### Markdown CSS
-
-#### Air
+### Markdown CSS — Air
 
 * [Repository](https://github.com/markdowncss/air) ![GitHub stars](https://img.shields.io/github/stars/markdowncss/air?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/markdowncss/air?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/markdowncss/air?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/markdowncss/air?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/markdowncss/air?style=flat-square)
 * [Demo](https://markdowncss.github.io/air/)
@@ -170,7 +169,7 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
 [![markdowncss-air.png](thumbnail/markdowncss-air.png)](screenshot/markdowncss-air.png)
 
 
-#### Modest
+### Markdown CSS — Modest
 
 * [Repository](https://github.com/markdowncss/modest) ![GitHub stars](https://img.shields.io/github/stars/markdowncss/modest?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/markdowncss/modest?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/markdowncss/modest?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/markdowncss/modest?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/markdowncss/modest?style=flat-square)
 * [Demo](https://markdowncss.github.io/modest/)
@@ -178,7 +177,7 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
 [![markdowncss-modest.png](thumbnail/markdowncss-modest.png)](screenshot/markdowncss-modest.png)
 
 
-#### Retro
+### Markdown CSS — Retro
 
 * [Repository](https://github.com/markdowncss/retro) ![GitHub stars](https://img.shields.io/github/stars/markdowncss/retro?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/markdowncss/retro?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/markdowncss/retro?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/markdowncss/retro?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/markdowncss/retro?style=flat-square)
 * [Demo](https://markdowncss.github.io/retro/)
@@ -186,7 +185,7 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
 [![markdowncss-retro.png](thumbnail/markdowncss-retro.png)](screenshot/markdowncss-retro.png)
 
 
-#### Splendor
+### Markdown CSS — Splendor
 
 * [Repository](https://github.com/markdowncss/splendor) ![GitHub stars](https://img.shields.io/github/stars/markdowncss/splendor?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/markdowncss/splendor?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/markdowncss/splendor?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/markdowncss/splendor?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/markdowncss/splendor?style=flat-square)
 * [Demo](https://markdowncss.github.io/splendor/)
@@ -235,8 +234,6 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
 
 
 ### Pico.css
-
-Pico.css also has a class-light version, which is its main version.
 
 * [Repository](https://github.com/picocss/pico) ![GitHub stars](https://img.shields.io/github/stars/picocss/pico?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/picocss/pico?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/picocss/pico?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/picocss/pico?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/picocss/pico?style=flat-square)
 * [Demo](https://picocss.com/examples/preview/)
