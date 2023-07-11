@@ -9,7 +9,7 @@ const temporaryFile = "temp.html";
 const slugify = (str: string) =>
   str
     .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/[^a-z0-9.]+/g, "-")
     .replace(/(^-|-$)/g, "");
 
 if (Deno.args.length !== 2) {
