@@ -410,6 +410,7 @@ These are frameworks that do not force you to apply their classes to many elemen
 A class-light variant of a CSS framework with classes. Made for Ruby on Rails.
 
 * [Repository](https://github.com/lazaronixon/sass-zero) ![GitHub stars](https://img.shields.io/github/stars/lazaronixon/sass-zero?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/lazaronixon/sass-zero?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/lazaronixon/sass-zero?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/lazaronixon/sass-zero?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/lazaronixon/sass-zero?style=flat-square)
+
 [![sass-zero.png](thumbnail/sass-zero.png)](screenshot/sass-zero.png)
 
 

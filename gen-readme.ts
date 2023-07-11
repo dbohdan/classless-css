@@ -39,18 +39,25 @@ const renderItem = (
     `[![${filename}](thumbnail/${filename})](screenshot/${filename})`
   ).join("\n");
 
-  return `### ${name}\n\n` +
-    (note === "" ? "" : `${note}\n\n`) +
-    (website === "" ? "" : `* [Website](${website})\n`) +
-    (github === ""
-      ? ""
-      : `* [Repository](https://github.com/${github}) ![GitHub stars](https://img.shields.io/github/stars/${github}?style=flat-square) ` +
+  const lines: string[] = [];
+  lines.push(`### ${name}`, "");
+  if (note !== "") {
+    lines.push(note, "");
+  }
+  if (website !== "") lines.push(`* [Website](${website})`);
+  if (github !== "") {
+    lines.push(
+      `* [Repository](https://github.com/${github}) ![GitHub stars](https://img.shields.io/github/stars/${github}?style=flat-square) ` +
         `![GitHub contributors](https://img.shields.io/github/contributors-anon/${github}?style=flat-square) ` +
         `![Last commit](https://img.shields.io/github/last-commit/${github}?style=flat-square) ` +
         `![GitHub open issues](https://img.shields.io/github/issues-raw/${github}?style=flat-square) ` +
-        `![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/${github}?style=flat-square)\n`) +
-    (demo === "" ? "" : `* [Demo](${demo})\n\n`) +
-    screenshotMarkdown;
+        `![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/${github}?style=flat-square)`,
+    );
+  }
+  if (demo !== "") lines.push(`* [Demo](${demo})`);
+  lines.push("", screenshotMarkdown);
+
+  return lines.join("\n");
 };
 
 try {
