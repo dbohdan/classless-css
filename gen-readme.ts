@@ -10,6 +10,7 @@ type Item = {
   demo: string;
   github: string;
   name: string;
+  note: string;
   screenshots: string[];
   website: string;
 };
@@ -32,13 +33,14 @@ const readData = async (...args: string[]): Promise<string> => {
 };
 
 const renderItem = (
-  { demo, github, name, screenshots, website }: Item,
+  { demo, github, name, note, screenshots, website }: Item,
 ): string => {
   const screenshotMarkdown = screenshots.map((filename) =>
     `[![${filename}](thumbnail/${filename})](screenshot/${filename})`
   ).join("\n");
 
   return `### ${name}\n\n` +
+    (note === "" ? "" : `${note}\n\n`) +
     (website === "" ? "" : `* [Website](${website})\n`) +
     (github === ""
       ? ""
@@ -47,7 +49,8 @@ const renderItem = (
         `![Last commit](https://img.shields.io/github/last-commit/${github}?style=flat-square) ` +
         `![GitHub open issues](https://img.shields.io/github/issues-raw/${github}?style=flat-square) ` +
         `![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/${github}?style=flat-square)\n`) +
-    `* [Demo](${demo})\n\n${screenshotMarkdown}`;
+    (demo === "" ? "" : `* [Demo](${demo})\n\n`) +
+    screenshotMarkdown;
 };
 
 try {
@@ -66,6 +69,7 @@ try {
         demo: await readData(sectionDir, itemDir, "demo"),
         github: await readData(sectionDir, itemDir, "github"),
         name: await readData(sectionDir, itemDir, "name"),
+        note: await readData(sectionDir, itemDir, "note"),
         screenshots: (await readData(sectionDir, itemDir, "screenshots")).split(
           "\n",
         ),
