@@ -49,6 +49,7 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
     + [Milligram](#milligram)
     + [mini.css](#minicss)
     + [Picnic CSS](#picnic-css)
+    + [SASS-ZERO (Breadboard)](#sass-zero-breadboard)
     + [Wing](#wing)
   * [See also](#see-also)
   * [License](#license)
@@ -402,6 +403,14 @@ These are frameworks that do not force you to apply their classes to many elemen
 * [Demo](http://picnicss.com/)
 
 [![picnic.png](thumbnail/picnic.png)](screenshot/picnic.png)
+
+
+### SASS-ZERO (Breadboard)
+
+A class-light variant of a CSS framework with classes. Made for Ruby on Rails.
+
+* [Repository](https://github.com/lazaronixon/sass-zero) ![GitHub stars](https://img.shields.io/github/stars/lazaronixon/sass-zero?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/lazaronixon/sass-zero?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/lazaronixon/sass-zero?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/lazaronixon/sass-zero?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/lazaronixon/sass-zero?style=flat-square)
+[![sass-zero.png](thumbnail/sass-zero.png)](screenshot/sass-zero.png)
 
 
 ### Wing
