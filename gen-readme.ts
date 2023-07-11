@@ -27,7 +27,6 @@ const readData = async (...args: string[]): Promise<string> => {
     if (e instanceof Deno.errors.NotFound) {
       return "";
     }
-
     throw e;
   }
 };
@@ -43,7 +42,11 @@ const renderItem = (
     (website === "" ? "" : `* [Website](${website})\n`) +
     (github === ""
       ? ""
-      : `* [Repository](https://github.com/${github}) ![GitHub stars](https://img.shields.io/github/stars/${github}?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/${github}?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/${github}?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/${github}?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/${github}?style=flat-square)\n`) +
+      : `* [Repository](https://github.com/${github}) ![GitHub stars](https://img.shields.io/github/stars/${github}?style=flat-square) ` +
+        `![GitHub contributors](https://img.shields.io/github/contributors-anon/${github}?style=flat-square) ` +
+        `![Last commit](https://img.shields.io/github/last-commit/${github}?style=flat-square) ` +
+        `![GitHub open issues](https://img.shields.io/github/issues-raw/${github}?style=flat-square) ` +
+        `![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/${github}?style=flat-square)\n`) +
     `* [Demo](${demo})\n\n${screenshotMarkdown}`;
 };
 
@@ -78,7 +81,10 @@ try {
     sections[sectionDir] = items.map(renderItem).join("\n\n\n");
   }
 
-  const template = (await Deno.readTextFile(readmeTemplateFile)).replace(/\n+$/, "");
+  const template = (await Deno.readTextFile(readmeTemplateFile)).replace(
+    /\n+$/,
+    "",
+  );
   let readme = template;
 
   for (const [name, markup] of Object.entries(sections)) {
