@@ -16,6 +16,7 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
     + [Bamboo CSS](#bamboo-css)
     + [BareCSS](#barecss)
     + [Basic.css](#basiccss)
+    + [Bolt.css](#boltcss)
     + [Classless.css](#classlesscss)
     + [concrete.css](#concretecss)
     + [Downstyler](#downstyler)
@@ -128,6 +129,14 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
 * [Demo](https://vladocar.github.io/Basic.css/)
 
 [![basic.css.png](thumbnail/basic.css.png)](screenshot/basic.css.png)
+
+
+### Bolt.css
+
+* [Repository](https://github.com/tbolt/boltcss) ![GitHub stars](https://img.shields.io/github/stars/tbolt/boltcss?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/tbolt/boltcss?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/tbolt/boltcss?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/tbolt/boltcss?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/tbolt/boltcss?style=flat-square)
+* [Demo](https://boltcss.com/)
+
+[![bolt.css.png](thumbnail/bolt.css.png)](screenshot/bolt.css.png)
 
 
 ### Classless.css
