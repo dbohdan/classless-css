@@ -14,6 +14,20 @@ const slugify = (str: string) =>
     .replace(/[^a-z0-9.]+/g, "-")
     .replace(/(^-|-$)/g, "");
 
+const saveScreenshot = async (src: string, dest: string) => {
+  // For whatever reason, I get screenshots 16 pixels wider than the requested
+  // viewport size.
+  const browser = await puppeteer.launch({
+    defaultViewport: { width: 1024 - 16, height: 1024, deviceScaleFactor: 1 }
+  });
+  const page = await browser.newPage();
+
+  await page.goto(src);
+  await page.screenshot({ fullPage: true, path: dest });
+
+  await browser.close();
+};
+
 if (Deno.args.length !== 2) {
   console.error("usage: generate-screenshot.ts name css-file");
   Deno.exit(1);
@@ -21,17 +35,6 @@ if (Deno.args.length !== 2) {
 
 const screenshotFile = `${slugify(Deno.args[0])}.png`;
 const cssFile = Deno.args[1];
-
-const saveScreenshot = async (src: string, dest: string) => {
-  const browser = await puppeteer.launch();
-  const page = await browser.newPage();
-
-  await page.setViewport({ width: 1024, height: 1024, deviceScaleFactor: 1 });
-  await page.goto(src);
-  await page.screenshot({ fullPage: true, path: dest });
-
-  await browser.close();
-};
 
 try {
   const htmlTemplate = await Deno.readTextFile(templateFile);
