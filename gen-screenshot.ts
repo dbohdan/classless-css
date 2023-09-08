@@ -1,7 +1,9 @@
-#! /usr/bin/env -S deno run --allow-run --allow-read --allow-write
+#! /usr/bin/env -S deno run --allow-env --allow-net --allow-read --allow-run --allow-write
 // Generate the screenshot and its thumbnail for a project.
 // To install the dependencies on Debian/Ubuntu:
-// $ sudo apt install imagemagick optipng wkhtmltopdf
+// $ sudo apt install imagemagick optipng
+
+import puppeteer from "https://deno.land/x/puppeteer@16.2.0/mod.ts";
 
 const templateFile = "screenshot-page.html";
 const temporaryFile = "temp.html";
@@ -20,15 +22,26 @@ if (Deno.args.length !== 2) {
 const screenshotFile = `${slugify(Deno.args[0])}.png`;
 const cssFile = Deno.args[1];
 
+const saveScreenshot = async (src: string, dest: string) => {
+  const browser = await puppeteer.launch();
+  const page = await browser.newPage();
+
+  await page.setViewport({ width: 1024, height: 1024, deviceScaleFactor: 1 });
+  await page.goto(src);
+  await page.screenshot({ fullPage: true, path: dest });
+
+  await browser.close();
+};
+
 try {
   const htmlTemplate = await Deno.readTextFile(templateFile);
   const css = await Deno.readTextFile(cssFile);
   const html = htmlTemplate.replace(/%CSS_HERE%/, css);
   await Deno.writeTextFile(temporaryFile, html);
 
-  await Deno.run({
-    cmd: ["wkhtmltoimage", temporaryFile, `screenshot/${screenshotFile}`],
-  }).status();
+  const tempFilePath = await Deno.realPath(temporaryFile);
+  await saveScreenshot(`file://${tempFilePath}`, `screenshot/${screenshotFile}`);
+
   await Deno.run({
     cmd: [
       "convert",
@@ -40,6 +53,7 @@ try {
       `thumbnail/${screenshotFile}`,
     ],
   }).status();
+
   await Deno.run({
     cmd: [
       "optipng",
