@@ -1,0 +1,60 @@
+# Classless CSS
+
+This is a list of classless CSS themes and frameworks.  "Classless" means a style sheet does not define special classes you must add to your HTML elements to style these elements.  As a result, you can style any plain-HTML page just by linking to the style sheet.  This is useful, for example, in prototyping.
+
+
+## Contents
+
+{{ toc }}
+
+{% macro item(proj) %}
+### {{ proj.name }}
+
+{% if proj.note %}
+{{ proj.note }}
+
+{% endif %}
+{% if proj.website %}
+* [Website]({{ proj.website }})
+{% endif %}
+{% if proj.github %}
+* [Repository](https://github.com/{{ proj.github }}) ![GitHub stars](https://img.shields.io/github/stars/{{ proj.github }}?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/{{ proj.github }}?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/{{ proj.github }}?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/{{ proj.github }}?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/{{ proj.github }}?style=flat-square)
+{% endif %}
+{% if proj.demo %}
+* [Demo]({{ proj.demo }})
+{% endif %}
+
+{% for filename in proj.screenshots %}
+[![{{ filename }}](thumbnail/{{ filename }})](screenshot/{{ filename }})
+{% endfor %}
+{% endmacro %}
+
+## Classless
+
+{% for proj in projects %}
+{% if proj.tags.indexOf("classless") > -1 %}
+{{ item(proj) }}
+
+{% endif %}
+{% endfor %}
+## Class-light
+
+These are frameworks that do not force you to apply their classes to many elements but require something like `<div class="container">` or a bit of your own CSS for a page to look right.  They may offer optional classes to style your content.
+
+{% for proj in projects %}
+{% if proj.tags.indexOf("class-light") > -1 %}
+
+{{ item(proj) }}
+{% endif %}
+{% endfor %}
+
+## See also
+
+* [Drop-in switcher for previewing minimal CSS frameworks](https://github.com/dohliam/dropin-minimal-css)
+
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, D. Bohdan has waived all copyright and related or neighboring rights to this work. By contributing, you agree to release your contribution under the same terms.

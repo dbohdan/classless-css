@@ -6,7 +6,6 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
 ## Contents
 
 - [Classless CSS](#classless-css)
-  * [Contents](#contents)
   * [Classless](#classless)
     + [Almond.CSS](#almondcss)
     + [attriCSS](#attricss)
@@ -372,6 +371,7 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
 ## Class-light
 
 These are frameworks that do not force you to apply their classes to many elements but require something like `<div class="container">` or a bit of your own CSS for a page to look right.  They may offer optional classes to style your content.
+
 
 ### Chota
 

@@ -1,0 +1,365 @@
+["Almond.CSS"]
+demo = "https://alvaromontoro.github.io/almond.css/demo/"
+github = "alvaromontoro/almond.css"
+note = ""
+website = ""
+screenshots = ["almond-css.png"]
+tags = ["classless"]
+
+[attriCSS]
+demo = "https://raj457036.github.io/attriCSS/"
+github = "raj457036/attriCSS"
+note = ""
+website = ""
+screenshots = [
+  "attricss-0-brightlight-green.png",
+  "attricss-1-midnight-green.png",
+  "attricss-2-darkforest-green.png",
+  "attricss-3-darkfairy-pink.png",
+  "attricss-4-lightfairy-pink.png",
+]
+tags = ["classless"]
+
+["awsm.css"]
+demo = "https://igoradamenko.com/awsm.css/v2/elements.html"
+github = ""
+note = ""
+website = "https://igoradamenko.com/awsm.css/v2/"
+screenshots = [
+  "awsm.css-0.png",
+  "awsm.css-1-gondola.png",
+  "awsm.css-2-mischka.png",
+  "awsm.css-3-big-stone.png",
+  "awsm.css-4-black.png",
+  "awsm.css-5-tasman.png",
+  "awsm.css-6-pastel-pink.png",
+  "awsm.css-7-pearl-lusta.png",
+]
+tags = ["classless"]
+
+[axist]
+demo = "https://ruanmartinelli.github.io/axist/"
+github = "ruanmartinelli/axist"
+note = ""
+website = ""
+screenshots = ["axist.png"]
+tags = ["classless"]
+
+[Bahunya]
+demo = "https://kimeiga.github.io/bahunya/"
+github = "Kimeiga/bahunya"
+note = ""
+website = ""
+screenshots = ["bahunya.png"]
+tags = ["classless"]
+
+["Bamboo CSS"]
+demo = "https://rilwis.github.io/bamboo/demo/"
+github = "rilwis/bamboo"
+note = ""
+website = ""
+screenshots = ["bamboo-css.png"]
+tags = ["classless"]
+
+[BareCSS]
+demo = "https://web.archive.org/web/20191010034508/http://barecss.com/"
+github = "longsien/BareCSS"
+note = ""
+website = ""
+screenshots = ["barecss.png"]
+tags = ["classless"]
+
+["Basic.css"]
+demo = "https://vladocar.github.io/Basic.css/"
+github = "vladocar/Basic.css"
+note = ""
+website = ""
+screenshots = ["basic.css.png"]
+tags = ["classless"]
+
+["Bolt.css"]
+demo = "https://boltcss.com/"
+github = "tbolt/boltcss"
+note = ""
+website = ""
+screenshots = ["bolt.css.png"]
+tags = ["classless"]
+
+["Classless.css"]
+demo = "http://classless.de/"
+github = "emareg/classlesscss"
+note = ""
+website = ""
+screenshots = ["classless.css.png"]
+tags = ["classless"]
+
+["concrete.css"]
+demo = "https://concrete.style/"
+github = "louismerlin/concrete.css"
+note = ""
+website = ""
+screenshots = ["concrete.css.png"]
+tags = ["classless"]
+
+[Downstyler]
+demo = "https://waldyrious.github.io/downstyler"
+github = "waldyrious/downstyler"
+note = ""
+website = ""
+screenshots = ["downstyler.png"]
+tags = ["classless"]
+
+["holiday.css"]
+demo = "https://holidaycss.js.org/"
+github = "EvgenyOrekhov/holiday.css"
+note = ""
+website = ""
+screenshots = ["holiday.css.png"]
+tags = ["classless"]
+
+[LatexCSS]
+demo = "https://davidrzs.github.io/latexcss/"
+github = "davidrzs/latexcss"
+note = ""
+website = ""
+screenshots = ["latex.png"]
+tags = ["classless"]
+
+["Markdown CSS — Air"]
+demo = "https://markdowncss.github.io/air/"
+github = "markdowncss/air"
+note = ""
+website = ""
+screenshots = ["markdowncss-air.png"]
+tags = ["classless"]
+
+["Markdown CSS — Modest"]
+demo = "https://markdowncss.github.io/modest/"
+github = "markdowncss/modest"
+note = ""
+website = ""
+screenshots = ["markdowncss-modest.png"]
+tags = ["classless"]
+
+["Markdown CSS — Retro"]
+demo = "https://markdowncss.github.io/retro/"
+github = "markdowncss/retro"
+note = ""
+website = ""
+screenshots = ["markdowncss-retro.png"]
+tags = ["classless"]
+
+["Markdown CSS — Splendor"]
+demo = "https://markdowncss.github.io/splendor/"
+github = "markdowncss/splendor"
+note = ""
+website = ""
+screenshots = ["markdowncss-splendor.png"]
+tags = ["classless"]
+
+[Marx]
+demo = "https://codepen.io/mblode/details/JdYbJj"
+github = "mblode/marx"
+note = ""
+website = ""
+screenshots = ["marx.png"]
+tags = ["classless"]
+
+[MercuryCSS]
+demo = "https://wmeredith.github.io/MercuryCSS/"
+github = "wmeredith/MercuryCSS"
+note = ""
+website = ""
+screenshots = ["mercurycss.png"]
+tags = ["classless"]
+
+["MVP.css"]
+demo = "https://andybrewer.github.io/mvp/"
+github = "andybrewer/mvp"
+note = ""
+website = ""
+screenshots = ["mvp.css.png"]
+tags = ["classless"]
+
+["new.css"]
+demo = "https://newcss.net/demo/"
+github = "xz/new.css"
+note = ""
+website = ""
+screenshots = ["new.css.png"]
+tags = ["classless"]
+
+["no-class.css"]
+demo = "https://davidpaulsson.se/no-class/"
+github = "davidpaulsson/no-class"
+note = ""
+website = ""
+screenshots = ["no-class.css.png"]
+tags = ["classless"]
+
+["Pico.css"]
+demo = "https://picocss.com/examples/preview/"
+github = "picocss/pico"
+note = ""
+website = ""
+screenshots = ["pico-css.png"]
+tags = ["classless"]
+
+["ridge.css"]
+demo = "https://ridgecss.com/"
+github = "swlkr/ridgecss"
+note = ""
+website = ""
+screenshots = ["ridge.css-light.png", "ridge.css-dark.png"]
+tags = ["classless"]
+
+[sakura]
+demo = "https://oxal.org/projects/sakura/demo/"
+github = "oxalorg/sakura"
+note = ""
+website = ""
+screenshots = [
+  "sakura-normalize-0.png",
+  "sakura-normalize-1-earthly.png",
+  "sakura-normalize-2-vader.png",
+  "sakura-normalize-3-dark.png",
+  "sakura-normalize-4-dark-solarized.png",
+]
+tags = ["classless"]
+
+["Simple.css"]
+demo = "https://simplecss.org/demo"
+github = "kevquirk/simple.css"
+note = ""
+website = ""
+screenshots = ["simple-css.png"]
+tags = ["classless"]
+
+[SPCSS]
+demo = "https://susam.github.io/spcss/"
+github = "susam/spcss"
+note = ""
+website = ""
+screenshots = ["spcss.png"]
+tags = ["classless"]
+
+["style.css"]
+demo = "https://css-pkg.github.io/style.css/"
+github = "css-pkg/style.css"
+note = ""
+website = ""
+screenshots = ["style.css.png"]
+tags = ["classless"]
+
+["Stylize.css"]
+demo = "https://vasanthv.github.io/stylize.css/demo.html"
+github = "vasanthv/stylize.css"
+note = ""
+website = ""
+screenshots = ["stylize.css.png"]
+tags = ["classless"]
+
+[tacit]
+demo = "https://yegor256.github.io/tacit/"
+github = "yegor256/tacit"
+note = ""
+website = ""
+screenshots = ["tacit.png"]
+tags = ["classless"]
+
+["Tufte CSS"]
+demo = "https://edwardtufte.github.io/tufte-css/"
+github = "edwardtufte/tufte-css"
+note = ""
+website = ""
+screenshots = ["tufte-css.png"]
+tags = ["classless"]
+
+["W3C Core Styles"]
+demo = "https://www.w3.org/StyleSheets/Core/preview"
+github = ""
+note = ""
+website = "https://www.w3.org/StyleSheets/Core/Overview"
+screenshots = [
+  "w3c-core-styles-0-oldstyle.png",
+  "w3c-core-styles-1-modernist.png",
+  "w3c-core-styles-2-midnight.png",
+  "w3c-core-styles-3-ultramarine.png",
+  "w3c-core-styles-4-swiss.png",
+  "w3c-core-styles-5-chocolate.png",
+  "w3c-core-styles-6-traditional.png",
+  "w3c-core-styles-7-steely.png",
+]
+tags = ["classless"]
+
+["water.css"]
+demo = "https://kognise.github.io/water.css/"
+github = "kognise/water.css"
+note = ""
+website = ""
+screenshots = ["water.css-0-dark.png", "water.css-1-light.png"]
+tags = ["classless"]
+
+[Writ]
+demo = "https://writ.cmcenroe.me/"
+github = "programble/writ"
+note = ""
+website = ""
+screenshots = ["writ.png"]
+tags = ["classless"]
+
+[YoRHa]
+demo = "https://metakirby5.github.io/yorha/"
+github = "metakirby5/yorha"
+note = ""
+website = ""
+screenshots = ["yorha.png"]
+tags = ["classless"]
+
+[Chota]
+demo = "https://jenil.github.io/chota/"
+github = "jenil/chota"
+note = ""
+website = ""
+screenshots = ["chota.png"]
+tags = ["class-light"]
+
+[Milligram]
+demo = "https://milligram.io/"
+github = "milligram/milligram"
+note = ""
+website = ""
+screenshots = ["milligram.png"]
+tags = ["class-light"]
+
+["mini.css"]
+demo = "https://minicss.org/docs"
+github = "Chalarangelo/mini.css"
+note = ""
+website = ""
+screenshots = ["minicss.png"]
+tags = ["class-light"]
+
+["Picnic CSS"]
+demo = "http://picnicss.com/"
+github = "franciscop/picnic"
+note = ""
+website = ""
+screenshots = ["picnic.png"]
+tags = ["class-light"]
+
+["SASS-ZERO (Breadboard)"]
+demo = ""
+github = "lazaronixon/sass-zero"
+note = "A class-light variant of a CSS framework with classes. Made for Ruby on Rails."
+website = ""
+screenshots = ["sass-zero.png"]
+tags = ["class-light"]
+
+[Wing]
+demo = "https://kbrsh.github.io/wing/"
+github = "kbrsh/wing"
+note = ""
+website = ""
+screenshots = ["wing.png"]
+tags = ["class-light"]
