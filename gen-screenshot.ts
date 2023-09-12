@@ -1,4 +1,4 @@
-#! /usr/bin/env -S deno run --allow-env --allow-net --allow-read --allow-run --allow-write
+#! /usr/bin/env -S deno run --allow-env --allow-net --allow-read --allow-run --allow-write --check
 // Generate the screenshot and its thumbnail for a project.
 // To install the dependencies on Debian/Ubuntu:
 // $ sudo apt install imagemagick optipng
