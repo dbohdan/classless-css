@@ -29,7 +29,7 @@ const saveScreenshot = async (src: string, dest: string) => {
 };
 
 if (Deno.args.length !== 2) {
-  console.error("usage: gen-screenshot.ts name css-file");
+  console.error("usage: gen-screenshot.ts image-filename css-file");
   Deno.exit(1);
 }
 
