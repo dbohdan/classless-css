@@ -18,7 +18,7 @@ const saveScreenshot = async (src: string, dest: string) => {
   // For whatever reason, I get screenshots 16 pixels wider than the requested
   // viewport size.
   const browser = await puppeteer.launch({
-    defaultViewport: { width: 1024 - 16, height: 1024, deviceScaleFactor: 1 }
+    defaultViewport: { width: 1024 - 16, height: 1024, deviceScaleFactor: 1 },
   });
   const page = await browser.newPage();
 
@@ -29,7 +29,10 @@ const saveScreenshot = async (src: string, dest: string) => {
 };
 
 if (Deno.args.length !== 2) {
-  console.error("usage: gen-screenshot.ts name css-file");
+  console.error(
+    "usage: gen-screenshot.ts project-name css-file\n\n" +
+      "The image filename will be derived from the project name.",
+  );
   Deno.exit(1);
 }
 
@@ -43,7 +46,10 @@ try {
   await Deno.writeTextFile(temporaryFile, html);
 
   const tempFilePath = await Deno.realPath(temporaryFile);
-  await saveScreenshot(`file://${tempFilePath}`, `screenshot/${screenshotFile}`);
+  await saveScreenshot(
+    `file://${tempFilePath}`,
+    `screenshot/${screenshotFile}`,
+  );
 
   await Deno.run({
     cmd: [
