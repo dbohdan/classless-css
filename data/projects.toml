@@ -324,6 +324,14 @@ website = ""
 screenshots = ["chota.png"]
 tags = ["class-light"]
 
+[Fylgja]
+demo = "https://codepen.io/Fylgja/pen/ExGOZaE"
+github = "fylgja/fylgja"
+note = "[Classless setup guide](https://fylgja.dev/guides/classless-setup/)."
+website = "https://fylgja.dev/features/native-styles/"
+screenshots = ["fylgja.png"]
+tags = ["class-light"]
+
 [Milligram]
 demo = "https://milligram.io/"
 github = "milligram/milligram"

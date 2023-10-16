@@ -45,6 +45,7 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
     + [YoRHa](#yorha)
   * [Class-light](#class-light)
     + [Chota](#chota)
+    + [Fylgja](#fylgja)
     + [Milligram](#milligram)
     + [mini.css](#minicss)
     + [Picnic CSS](#picnic-css)
@@ -379,6 +380,17 @@ These are frameworks that do not force you to apply their classes to many elemen
 * [Demo](https://jenil.github.io/chota/)
 
 [![chota.png](thumbnail/chota.png)](screenshot/chota.png)
+
+
+### Fylgja
+
+[Classless setup guide](https://fylgja.dev/guides/classless-setup/).
+
+* [Website](https://fylgja.dev/features/native-styles/)
+* [Repository](https://github.com/fylgja/fylgja) ![GitHub stars](https://img.shields.io/github/stars/fylgja/fylgja?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/fylgja/fylgja?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/fylgja/fylgja?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/fylgja/fylgja?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/fylgja/fylgja?style=flat-square)
+* [Demo](https://codepen.io/Fylgja/pen/ExGOZaE)
+
+[![fylgja.png](thumbnail/fylgja.png)](screenshot/fylgja.png)
 
 
 ### Milligram
