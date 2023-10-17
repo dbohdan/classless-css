@@ -15,10 +15,8 @@ const slugify = (str: string) =>
     .replace(/(^-|-$)/g, "");
 
 const saveScreenshot = async (src: string, dest: string) => {
-  // For whatever reason, I get screenshots 16 pixels wider than the requested
-  // viewport size.
   const browser = await puppeteer.launch({
-    defaultViewport: { width: 1024 - 16, height: 1024, deviceScaleFactor: 1 },
+    defaultViewport: { width: 1024, height: 1024, deviceScaleFactor: 1 },
   });
   const page = await browser.newPage();
 
