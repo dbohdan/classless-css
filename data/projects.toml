@@ -351,7 +351,7 @@ tags = ["class-light"]
 ["Picnic CSS"]
 demo = "http://picnicss.com/"
 github = "franciscop/picnic"
-note = ""
+note = "Caution: Picnic CSS requires specific HTML structure to display certain elements. For example, it hides vanilla checkboxes and radio buttons. The structure serves as the effective class of the element. This means an existing project will have to modify its HTML markup for, e.g., every checkbox and radio button to start using Picnic."
 website = ""
 screenshots = ["picnic.png"]
 tags = ["class-light"]

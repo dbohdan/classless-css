@@ -411,6 +411,8 @@ These are frameworks that do not force you to apply their classes to many elemen
 
 ### Picnic CSS
 
+Caution: Picnic CSS requires specific HTML structure to display certain elements. For example, it hides vanilla checkboxes and radio buttons. The structure serves as the effective class of the element. This means an existing project will have to modify its HTML markup for, e.g., every checkbox and radio button to start using Picnic.
+
 * [Repository](https://github.com/franciscop/picnic) ![GitHub stars](https://img.shields.io/github/stars/franciscop/picnic?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/franciscop/picnic?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/franciscop/picnic?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/franciscop/picnic?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/franciscop/picnic?style=flat-square)
 * [Demo](http://picnicss.com/)
 
