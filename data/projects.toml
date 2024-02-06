@@ -267,6 +267,14 @@ website = ""
 screenshots = ["tacit.png"]
 tags = ["classless"]
 
+["Tiny.css"]
+demo = "https://ihsan6133.github.io/tinycss"
+github = "ihsan6133/tiny.css"
+note = ""
+website = ""
+screenshots = ["tiny.css-0-light.png", "tiny.css-1-dark.png"]
+tags = ["classless"]
+
 ["Tufte CSS"]
 demo = "https://edwardtufte.github.io/tufte-css/"
 github = "edwardtufte/tufte-css"

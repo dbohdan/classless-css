@@ -38,6 +38,7 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
     + [style.css](#stylecss)
     + [Stylize.css](#stylizecss)
     + [tacit](#tacit)
+    + [Tiny.css](#tinycss)
     + [Tufte CSS](#tufte-css)
     + [W3C Core Styles](#w3c-core-styles)
     + [water.css](#watercss)
@@ -319,6 +320,15 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
 * [Demo](https://yegor256.github.io/tacit/)
 
 [![tacit.png](thumbnail/tacit.png)](screenshot/tacit.png)
+
+
+### Tiny.css
+
+* [Repository](https://github.com/ihsan6133/tiny.css) ![GitHub stars](https://img.shields.io/github/stars/ihsan6133/tiny.css?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/ihsan6133/tiny.css?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/ihsan6133/tiny.css?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/ihsan6133/tiny.css?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/ihsan6133/tiny.css?style=flat-square)
+* [Demo](https://ihsan6133.github.io/tinycss)
+
+[![tiny.css-0-light.png](thumbnail/tiny.css-0-light.png)](screenshot/tiny.css-0-light.png)
+[![tiny.css-1-dark.png](thumbnail/tiny.css-1-dark.png)](screenshot/tiny.css-1-dark.png)
 
 
 ### Tufte CSS
