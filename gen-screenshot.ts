@@ -49,21 +49,24 @@ try {
     `screenshot/${screenshotFile}`,
   );
 
-  await Deno.run({
-    cmd: [
-      "convert",
-      "-resize",
-      "25%",
-      "-adaptive-sharpen",
-      "10",
-      `screenshot/${screenshotFile}`,
-      `thumbnail/${screenshotFile}`,
-    ],
-  }).status();
+  await (new Deno.Command(
+    "convert",
+    {
+      args: [
+        "-resize",
+        "25%",
+        "-adaptive-sharpen",
+        "10",
+        `screenshot/${screenshotFile}`,
+        `thumbnail/${screenshotFile}`,
+      ],
+      stderr: "inherit",
+      stdout: "inherit",
+    },
+  )).output();
 
-  await Deno.run({
-    cmd: [
-      "optipng",
+  await (new Deno.Command("optipng", {
+    args: [
       "-o",
       "5",
       "-strip",
@@ -71,7 +74,9 @@ try {
       `screenshot/${screenshotFile}`,
       `thumbnail/${screenshotFile}`,
     ],
-  }).status();
+    stderr: "inherit",
+    stdout: "inherit",
+  })).output();
 } catch (err) {
   console.error(err);
 } finally {
