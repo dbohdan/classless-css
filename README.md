@@ -39,6 +39,7 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
     + [Stylize.css](#stylizecss)
     + [tacit](#tacit)
     + [Tiny.css](#tinycss)
+    + [tty.css](#ttycss)
     + [Tufte CSS](#tufte-css)
     + [W3C Core Styles](#w3c-core-styles)
     + [water.css](#watercss)
@@ -329,6 +330,14 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
 
 [![tiny.css-0-light.png](thumbnail/tiny.css-0-light.png)](screenshot/tiny.css-0-light.png)
 [![tiny.css-1-dark.png](thumbnail/tiny.css-1-dark.png)](screenshot/tiny.css-1-dark.png)
+
+
+### tty.css
+
+* [Repository](https://github.com/piranna/tty.css) ![GitHub stars](https://img.shields.io/github/stars/piranna/tty.css?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/piranna/tty.css?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/piranna/tty.css?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/piranna/tty.css?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/piranna/tty.css?style=flat-square)
+* [Demo](https://piranna.github.io/tty.css/)
+
+[![tty.css.png](thumbnail/tty.css.png)](screenshot/tty.css.png)
 
 
 ### Tufte CSS
