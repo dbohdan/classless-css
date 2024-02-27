@@ -26,20 +26,20 @@ const saveScreenshot = async (src: string, dest: string) => {
   await browser.close();
 };
 
-if (Deno.args.length !== 2) {
+if (Deno.args.length < 1 || Deno.args.length > 2) {
   console.error(
-    "usage: gen-screenshot.ts project-name css-file\n\n" +
+    "usage: gen-screenshot.ts project-name [css-file]\n\n" +
       "The image filename will be derived from the project name.",
   );
   Deno.exit(1);
 }
 
 const screenshotFile = `${slugify(Deno.args[0])}.png`;
-const cssFile = Deno.args[1];
+const cssFile = Deno.args[1] || "";
 
 try {
   const htmlTemplate = await Deno.readTextFile(templateFile);
-  const css = await Deno.readTextFile(cssFile);
+  const css = cssFile === "" ? "" : await Deno.readTextFile(cssFile);
   const html = htmlTemplate.replace(/%CSS_HERE%/, css);
   await Deno.writeTextFile(temporaryFile, html);
 
