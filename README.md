@@ -46,6 +46,7 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
     + [Writ](#writ)
     + [YoRHa](#yorha)
   * [Class-light](#class-light)
+    + [Barrel.css](#barrelcss)
     + [Chota](#chota)
     + [Fylgja](#fylgja)
     + [Milligram](#milligram)
@@ -391,6 +392,21 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
 ## Class-light
 
 These are frameworks that do not force you to apply their classes to many elements but require something like `<div class="container">` or a bit of your own CSS for a page to look right.  They may offer optional classes to style your content.
+
+
+### Barrel.css
+
+- [Repository](https://github.com/EternityForest/barrel.css) ![GitHub stars](https://img.shields.io/github/stars/EternityForest/barrel.css?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors-anon/EternityForest/barrel.css?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/EternityForest/barrel.css?style=flat-square) ![GitHub open issues](https://img.shields.io/github/issues-raw/EternityForest/barrel.css?style=flat-square) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/EternityForest/barrel.css?style=flat-square)
+- [Demo](https://eternityforest.github.io/barrel.css/)
+
+[![barrel.css-0-barrel.png](thumbnail/barrel.css-0-barrel.png)](screenshot/barrel.css-0-barrel.png)
+[![barrel.css-1-fugit.png](thumbnail/barrel.css-1-fugit.png)](screenshot/barrel.css-1-fugit.png)
+[![barrel.css-2-banderole.png](thumbnail/barrel.css-2-banderole.png)](screenshot/barrel.css-2-banderole.png)
+[![barrel.css-3-scrapbook-green.png](thumbnail/barrel.css-3-scrapbook-green.png)](screenshot/barrel.css-3-scrapbook-green.png)
+[![barrel.css-4-nord.png](thumbnail/barrel.css-4-nord.png)](screenshot/barrel.css-4-nord.png)
+[![barrel.css-5-blast.png](thumbnail/barrel.css-5-blast.png)](screenshot/barrel.css-5-blast.png)
+[![barrel.css-6-lair.png](thumbnail/barrel.css-6-lair.png)](screenshot/barrel.css-6-lair.png)
+[![barrel.css-7-steam.png](thumbnail/barrel.css-7-steam.png)](screenshot/barrel.css-7-steam.png)
 
 
 ### Chota

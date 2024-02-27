@@ -1,3 +1,5 @@
+### Classless
+
 ["Almond.CSS"]
 demo = "https://alvaromontoro.github.io/almond.css/demo/"
 github = "alvaromontoro/almond.css"
@@ -331,6 +333,25 @@ note = ""
 website = ""
 screenshots = ["yorha.png"]
 tags = ["classless"]
+
+### Class-light
+
+["Barrel.css"]
+demo = "https://eternityforest.github.io/barrel.css/"
+github = "EternityForest/barrel.css"
+note = ""
+website = ""
+screenshots = [
+  "barrel.css-0-barrel.png",
+  "barrel.css-1-fugit.png",
+  "barrel.css-2-banderole.png",
+  "barrel.css-3-scrapbook-green.png",
+  "barrel.css-4-nord.png",
+  "barrel.css-5-blast.png",
+  "barrel.css-6-lair.png",
+  "barrel.css-7-steam.png",
+]
+tags = ["class-light"]
 
 [Chota]
 demo = "https://jenil.github.io/chota/"
