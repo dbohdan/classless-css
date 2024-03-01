@@ -87,6 +87,22 @@ website = ""
 screenshots = ["bolt.css.png"]
 tags = ["classless"]
 
+[ChimeraCSS]
+demo = "https://chimera-demo.vercel.app/"
+github = "ChimeraCSS/ChimeraCSS"
+note = ""
+website = ""
+screenshots = [
+  "chimeracss-0.png",
+  "chimeracss-1-dark.png",
+  "chimeracss-2-autumn.png",
+  "chimeracss-3-blues.png",
+  "chimeracss-4-golden.png",
+  "chimeracss-5-nightsky.png",
+  "chimeracss-6-plain.png",
+]
+tags = ["classless"]
+
 ["Classless.css"]
 demo = "http://classless.de/"
 github = "emareg/classlesscss"
