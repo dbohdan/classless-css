@@ -143,6 +143,14 @@ website = ""
 screenshots = ["latex.png"]
 tags = ["classless"]
 
+["magick.css"]
+demo = "https://css.winterveil.net/"
+github = "wintermute-cell/magick.css"
+note = ""
+website = ""
+screenshots = ["magick.css.png"]
+tags = ["classless"]
+
 ["Markdown CSS — Air"]
 demo = "https://markdowncss.github.io/air/"
 github = "markdowncss/air"

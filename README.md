@@ -22,6 +22,7 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
     + [Downstyler](#downstyler)
     + [holiday.css](#holidaycss)
     + [LatexCSS](#latexcss)
+    + [magick.css](#magickcss)
     + [Markdown CSS — Air](#markdown-css--air)
     + [Markdown CSS — Modest](#markdown-css--modest)
     + [Markdown CSS — Retro](#markdown-css--retro)
@@ -266,6 +267,19 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
 - [Demo](https://davidrzs.github.io/latexcss/)
 
 [![latex.png](thumbnail/latex.png)](screenshot/latex.png)
+
+
+### magick.css
+
+- [Repository](https://github.com/wintermute-cell/magick.css)
+  ![GitHub stars](https://img.shields.io/github/stars/wintermute-cell/magick.css?style=flat-square)
+  ![GitHub contributors](https://img.shields.io/github/contributors-anon/wintermute-cell/magick.css?style=flat-square)
+  ![Last commit](https://img.shields.io/github/last-commit/wintermute-cell/magick.css?style=flat-square)
+  ![GitHub open issues](https://img.shields.io/github/issues-raw/wintermute-cell/magick.css?style=flat-square)
+  ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/wintermute-cell/magick.css?style=flat-square)
+- [Demo](https://css.winterveil.net/)
+
+[![magick.css.png](thumbnail/magick.css.png)](screenshot/magick.css.png)
 
 
 ### Markdown CSS — Air
