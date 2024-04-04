@@ -53,6 +53,7 @@ This is a list of classless CSS themes and frameworks.  "Classless" means a styl
     + [Fylgja](#fylgja)
     + [Milligram](#milligram)
     + [mini.css](#minicss)
+    + [mono](#mono)
     + [Picnic CSS](#picnic-css)
     + [SASS-ZERO (Breadboard)](#sass-zero-breadboard)
     + [Wing](#wing)
@@ -681,6 +682,19 @@ These are frameworks that do not force you to apply their classes to many elemen
 - [Demo](https://minicss.org/docs)
 
 [![minicss.png](thumbnail/minicss.png)](screenshot/minicss.png)
+
+
+### mono
+
+- [Repository](https://github.com/artalar/mono)
+  ![GitHub stars](https://img.shields.io/github/stars/artalar/mono?style=flat-square)
+  ![GitHub contributors](https://img.shields.io/github/contributors-anon/artalar/mono?style=flat-square)
+  ![Last commit](https://img.shields.io/github/last-commit/artalar/mono?style=flat-square)
+  ![GitHub open issues](https://img.shields.io/github/issues-raw/artalar/mono?style=flat-square)
+  ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/artalar/mono?style=flat-square)
+- [Demo](https://monocss.vercel.app/)
+
+[![mono.png](thumbnail/mono.png)](screenshot/mono.png)
 
 
 ### Picnic CSS

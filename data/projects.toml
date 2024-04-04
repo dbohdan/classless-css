@@ -409,6 +409,15 @@ website = ""
 screenshots = ["minicss.png"]
 tags = ["class-light"]
 
+[mono]
+demo = "https://monocss.vercel.app/"
+github = "artalar/mono"
+note = ""
+website = ""
+screenshots = ["mono.png"]
+tags = ["class-light"]
+
+
 ["Picnic CSS"]
 demo = "http://picnicss.com/"
 github = "franciscop/picnic"
