@@ -393,6 +393,14 @@ website = "https://fylgja.dev/features/native-styles/"
 screenshots = ["fylgja.png"]
 tags = ["class-light"]
 
+["matcha.css"]
+demo = "https://matcha.mizu.sh/"
+github = "lowlighter/matcha"
+note = ""
+website = ""
+screenshots = ["matcha.css.png"]
+tags = ["class-light"]
+
 [Milligram]
 demo = "https://milligram.io/"
 github = "milligram/milligram"
