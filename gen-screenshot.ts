@@ -3,7 +3,7 @@
 // To install the dependencies on Debian/Ubuntu:
 // $ sudo apt install imagemagick optipng
 
-import puppeteer from "https://deno.land/x/puppeteer@16.2.0/mod.ts";
+import { launch } from "https://deno.land/x/astral@0.3.5/mod.ts";
 
 const templateFile = "screenshot-page.html";
 const temporaryFile = "temp.html";
@@ -15,13 +15,13 @@ const slugify = (str: string) =>
     .replace(/(^-|-$)/g, "");
 
 const saveScreenshot = async (src: string, dest: string) => {
-  const browser = await puppeteer.launch({
-    defaultViewport: { width: 1024, height: 1024, deviceScaleFactor: 1 },
-  });
-  const page = await browser.newPage();
+  const browser = await launch();
 
-  await page.goto(src);
-  await page.screenshot({ fullPage: true, path: dest });
+  const page = await browser.newPage(src);
+  await page.setViewportSize({ width: 1024, height: 1024 });
+
+  const screenshot = await page.screenshot({ captureBeyondViewport: true });
+  await Deno.writeFile(dest, screenshot);
 
   await browser.close();
 };
