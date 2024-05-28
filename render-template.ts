@@ -1,4 +1,4 @@
-#! /usr/bin/env -S deno run --allow-read --check
+#! /usr/bin/env -S deno run --allow-read --allow-env --check
 
 import markdownTOC from "npm:markdown-toc@1";
 import nunjucks from "npm:nunjucks@3";
