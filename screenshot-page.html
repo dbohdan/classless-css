@@ -3,7 +3,7 @@
 
 <head>
   <title>Lorem ipsum dolor sit amet</title>
-  
+
   <!-- <link rel="stylesheet" href="https://unpkg.com/normalize.css@8.0.1/normalize.css" type="text/css"> -->
   <style>
     %CSS_HERE%
@@ -49,8 +49,42 @@
           </div>
 
           <div>
-            <input type='checkbox' name='remember' id='remember' checked>
+            <input type='checkbox' name='remember' id='remember'>
             <label for='remember'>Remember me</label>
+          </div>
+
+          <div>
+            <label>
+              <input type='checkbox' name='in-label' id='in-label' checked>
+              Is this checkbox inside a <code>&lt;label&gt;</code> element?
+            </label>
+          </div>
+
+          <div>
+            <fieldset>
+              <legend>Choose a cardinal direction:</legend>
+
+              <div>
+                <input type='radio' id='north' name='direction' value='north' checked>
+                <label for='north'>North</label>
+              </div>
+
+              <div>
+                <input type='radio' id='east' name='direction' value='east'>
+                <label for='east'>East</label>
+              </div>
+
+              <div>
+                <input type='radio' id='south' name='direction' value='south'>
+                <label for='south'>South</label>
+              </div>
+
+              <div>
+                <input type='radio' id='west' name='direction' value='west'>
+                <label for='west'>West</label>
+              </div>
+
+            </fieldset>
           </div>
 
           <input type='submit'>
