@@ -399,7 +399,7 @@ This is useful, for example, in prototyping.
   ![Last commit](https://img.shields.io/github/last-commit/davidpaulsson/no-class?style=flat-square)
   ![GitHub open issues](https://img.shields.io/github/issues-raw/davidpaulsson/no-class?style=flat-square)
   ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/davidpaulsson/no-class?style=flat-square)
-- [Demo](https://davidpaulsson.se/no-class/)
+- [Demo](https://davidpaulsson.github.io/no-class/)
 
 [![no-class.css.png](thumbnail/no-class.css.png)](screenshot/no-class.css.png)
 
