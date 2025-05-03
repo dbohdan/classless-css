@@ -216,7 +216,7 @@ screenshots = ["new.css.png"]
 tags = ["classless"]
 
 ["no-class.css"]
-demo = "https://davidpaulsson.se/no-class/"
+demo = "https://davidpaulsson.github.io/no-class/"
 github = "davidpaulsson/no-class"
 note = ""
 website = ""
