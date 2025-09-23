@@ -23,6 +23,7 @@ This is useful, for example, in prototyping.
     + [Classless.css](#classlesscss)
     + [concrete.css](#concretecss)
     + [Downstyler](#downstyler)
+    + [Fylgja](#fylgja)
     + [holiday.css](#holidaycss)
     + [LatexCSS](#latexcss)
     + [magick.css](#magickcss)
@@ -53,7 +54,6 @@ This is useful, for example, in prototyping.
   * [Class-light](#class-light)
     + [Barrel.css](#barrelcss)
     + [Chota](#chota)
-    + [Fylgja](#fylgja)
     + [matcha.css](#matchacss)
     + [Milligram](#milligram)
     + [mini.css](#minicss)
@@ -246,6 +246,23 @@ This is useful, for example, in prototyping.
 - [Demo](https://waldyrious.github.io/downstyler)
 
 [![downstyler.png](thumbnail/downstyler.png)](screenshot/downstyler.png)
+
+
+### Fylgja
+
+[Explaining what &quot;classless&quot; is](https://fylgja.dev/docs/concepts/classless/).
+
+- [Website](https://fylgja.dev/library/base/)
+- [Repository](https://github.com/fylgja/fylgja)
+  ![GitHub stars](https://img.shields.io/github/stars/fylgja/fylgja?style=flat-square)
+  ![GitHub contributors](https://img.shields.io/github/contributors-anon/fylgja/fylgja?style=flat-square)
+  ![Last commit](https://img.shields.io/github/last-commit/fylgja/fylgja?style=flat-square)
+  ![GitHub open issues](https://img.shields.io/github/issues-raw/fylgja/fylgja?style=flat-square)
+  ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/fylgja/fylgja?style=flat-square)
+- [Demo](https://codepen.io/Fylgja/pen/ExGOZaE)
+
+[![fylgja.png](thumbnail/fylgja.png)](screenshot/fylgja.png)
+[![fylgja-dark.png](thumbnail/fylgja-dark.png)](screenshot/fylgja-dark.png)
 
 
 ### holiday.css
@@ -647,22 +664,6 @@ or offer optional classes to style your content&mdash;possibly both.
 - [Demo](https://jenil.github.io/chota/)
 
 [![chota.png](thumbnail/chota.png)](screenshot/chota.png)
-
-
-### Fylgja
-
-[Classless setup guide](https://fylgja.dev/guides/classless-setup/).
-
-- [Website](https://fylgja.dev/features/native-styles/)
-- [Repository](https://github.com/fylgja/fylgja)
-  ![GitHub stars](https://img.shields.io/github/stars/fylgja/fylgja?style=flat-square)
-  ![GitHub contributors](https://img.shields.io/github/contributors-anon/fylgja/fylgja?style=flat-square)
-  ![Last commit](https://img.shields.io/github/last-commit/fylgja/fylgja?style=flat-square)
-  ![GitHub open issues](https://img.shields.io/github/issues-raw/fylgja/fylgja?style=flat-square)
-  ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/fylgja/fylgja?style=flat-square)
-- [Demo](https://codepen.io/Fylgja/pen/ExGOZaE)
-
-[![fylgja.png](thumbnail/fylgja.png)](screenshot/fylgja.png)
 
 
 ### matcha.css
