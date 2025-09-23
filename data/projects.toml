@@ -127,6 +127,14 @@ website = ""
 screenshots = ["downstyler.png"]
 tags = ["classless"]
 
+[Fylgja]
+demo = "https://codepen.io/Fylgja/pen/ExGOZaE"
+github = "fylgja/fylgja"
+note = "[Explaining what Classless is](https://fylgja.dev/docs/concepts/classless/)."
+website = "https://fylgja.dev/library/base/"
+screenshots = ["fylgja.png", "fylgja-dark.png"]
+tags = ["classless"]
+
 ["holiday.css"]
 demo = "https://holidaycss.js.org/"
 github = "EvgenyOrekhov/holiday.css"
@@ -383,14 +391,6 @@ github = "jenil/chota"
 note = ""
 website = ""
 screenshots = ["chota.png"]
-tags = ["class-light"]
-
-[Fylgja]
-demo = "https://codepen.io/Fylgja/pen/ExGOZaE"
-github = "fylgja/fylgja"
-note = "[Classless setup guide](https://fylgja.dev/guides/classless-setup/)."
-website = "https://fylgja.dev/features/native-styles/"
-screenshots = ["fylgja.png"]
 tags = ["class-light"]
 
 ["matcha.css"]
