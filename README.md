@@ -22,6 +22,7 @@ This is useful, for example, in prototyping.
     + [ChimeraCSS](#chimeracss)
     + [Classless.css](#classlesscss)
     + [concrete.css](#concretecss)
+    + [dev.css](#devcss)
     + [Downstyler](#downstyler)
     + [Fylgja](#fylgja)
     + [holiday.css](#holidaycss)
@@ -39,6 +40,7 @@ This is useful, for example, in prototyping.
     + [Pico.css](#picocss)
     + [ridge.css](#ridgecss)
     + [sakura](#sakura)
+    + [shadcn-classless (Nandaleio)](#shadcn-classless-nandaleio)
     + [Simple.css](#simplecss)
     + [SPCSS](#spcss)
     + [style.css](#stylecss)
@@ -233,6 +235,20 @@ This is useful, for example, in prototyping.
 - [Demo](https://concrete.style/)
 
 [![concrete.css.png](thumbnail/concrete.css.png)](screenshot/concrete.css.png)
+
+
+### dev.css
+
+- [Website](https://devcss.devins.page/)
+- [Repository](https://github.com/intergrav/dev.css)
+  ![GitHub stars](https://img.shields.io/github/stars/intergrav/dev.css?style=flat-square)
+  ![GitHub contributors](https://img.shields.io/github/contributors-anon/intergrav/dev.css?style=flat-square)
+  ![Last commit](https://img.shields.io/github/last-commit/intergrav/dev.css?style=flat-square)
+  ![GitHub open issues](https://img.shields.io/github/issues-raw/intergrav/dev.css?style=flat-square)
+  ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/intergrav/dev.css?style=flat-square)
+- [Demo](https://devcss.devins.page/demo)
+
+[![dev.css.png](thumbnail/dev.css.png)](screenshot/dev.css.png)
 
 
 ### Downstyler
@@ -463,6 +479,19 @@ This is useful, for example, in prototyping.
 [![sakura-normalize-2-vader.png](thumbnail/sakura-normalize-2-vader.png)](screenshot/sakura-normalize-2-vader.png)
 [![sakura-normalize-3-dark.png](thumbnail/sakura-normalize-3-dark.png)](screenshot/sakura-normalize-3-dark.png)
 [![sakura-normalize-4-dark-solarized.png](thumbnail/sakura-normalize-4-dark-solarized.png)](screenshot/sakura-normalize-4-dark-solarized.png)
+
+
+### shadcn-classless (Nandaleio)
+
+- [Repository](https://github.com/Nandaleio/shadcn-classless)
+  ![GitHub stars](https://img.shields.io/github/stars/Nandaleio/shadcn-classless?style=flat-square)
+  ![GitHub contributors](https://img.shields.io/github/contributors-anon/Nandaleio/shadcn-classless?style=flat-square)
+  ![Last commit](https://img.shields.io/github/last-commit/Nandaleio/shadcn-classless?style=flat-square)
+  ![GitHub open issues](https://img.shields.io/github/issues-raw/Nandaleio/shadcn-classless?style=flat-square)
+  ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Nandaleio/shadcn-classless?style=flat-square)
+- [Demo](https://nandaleio.github.io/shadcn-classless/)
+
+[![shadcn-classless-nandaleio.png](thumbnail/shadcn-classless-nandaleio.png)](screenshot/shadcn-classless-nandaleio.png)
 
 
 ### Simple.css

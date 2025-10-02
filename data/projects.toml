@@ -269,6 +269,14 @@ screenshots = [
 ]
 tags = ["classless"]
 
+["shadcn-classless (Nandaleio)"]
+demo = "https://nandaleio.github.io/shadcn-classless/"
+github = "Nandaleio/shadcn-classless"
+note = ""
+website = ""
+screenshots = ["shadcn-classless-nandaleio.png"]
+tags = ["classless"]
+
 ["Simple.css"]
 demo = "https://simplecss.org/demo"
 github = "kevquirk/simple.css"
