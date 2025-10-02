@@ -119,6 +119,14 @@ website = ""
 screenshots = ["concrete.css.png"]
 tags = ["classless"]
 
+["dev.css"]
+demo = "https://devcss.devins.page/demo"
+github = "intergrav/dev.css"
+note = ""
+website = "https://devcss.devins.page/"
+screenshots = ["dev.css.png"]
+tags = ["classless"]
+
 [Downstyler]
 demo = "https://waldyrious.github.io/downstyler"
 github = "waldyrious/downstyler"
