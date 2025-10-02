@@ -1,9 +1,9 @@
-#! /usr/bin/env -S deno run --allow-env --allow-net --allow-read --allow-run --allow-write --check
+#! /usr/bin/env -S deno run --allow-env --allow-net --allow-sys --allow-read --allow-run --allow-write --check
 // Generate the screenshot and its thumbnail for a project.
 // To install the dependencies on Debian/Ubuntu:
 // $ sudo apt install imagemagick optipng
 
-import { launch } from "https://deno.land/x/astral@0.3.5/mod.ts";
+import { chromium } from "npm:playwright";
 
 const templateFile = "screenshot-page.html";
 const temporaryFile = "temp.html";
@@ -15,13 +15,12 @@ const slugify = (str: string) =>
     .replace(/(^-|-$)/g, "");
 
 const saveScreenshot = async (src: string, dest: string) => {
-  const browser = await launch();
-
-  const page = await browser.newPage(src);
+  const browser = await chromium.launch();
+  const page = await browser.newPage();
   await page.setViewportSize({ width: 1024, height: 1024 });
+  await page.goto(src);
 
-  const screenshot = await page.screenshot({ captureBeyondViewport: true });
-  await Deno.writeFile(dest, screenshot);
+  await page.screenshot({ path: dest, fullPage: true });
 
   await browser.close();
 };
