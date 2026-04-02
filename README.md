@@ -793,6 +793,7 @@ A class-light variant of a CSS framework with classes. Made for Ruby on Rails.
 
 - [Drop-in switcher for previewing minimal CSS frameworks](https://github.com/dohliam/dropin-minimal-css)
 - [Blades CSS⁺](https://github.com/anydigital/blades) - Framework-agnostic, class-light CSS⁺ toolkit to be used with class-less/light CSS reset/frameworks
+- [Classless CSS-only Float Label](https://github.com/anydigital/float-label-css) - Classless CSS-only implementation of Float Label pattern with automatic fallback for ANY non-supporting browser
 
 
 ## License
