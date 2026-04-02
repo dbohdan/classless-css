@@ -64,7 +64,9 @@ This is useful, for example, in prototyping.
     + [SASS-ZERO (Breadboard)](#sass-zero-breadboard)
     + [Wing](#wing)
   * [See also](#see-also)
+    + [Components](#components)
   * [License](#license)
+
 
 
 ## Classless
@@ -654,6 +656,8 @@ This is useful, for example, in prototyping.
 [![yorha.png](thumbnail/yorha.png)](screenshot/yorha.png)
 
 
+
+
 ## Class-light
 
 These are frameworks that do not force you to apply their classes to many elements.
@@ -789,9 +793,14 @@ A class-light variant of a CSS framework with classes. Made for Ruby on Rails.
 [![wing.png](thumbnail/wing.png)](screenshot/wing.png)
 
 
+
 ## See also
 
 - [Drop-in switcher for previewing minimal CSS frameworks](https://github.com/dohliam/dropin-minimal-css)
+
+### Components
+
+- [Float Label CSS](https://github.com/anydigital/float-label-css): a classless CSS-only implementation of the Float Label pattern
 
 
 ## License
