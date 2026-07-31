@@ -87,6 +87,18 @@ website = ""
 screenshots = ["bolt.css.png"]
 tags = ["classless"]
 
+
+["bullframe.css"]
+demo = "https://bullframecss.marcopontili.com/kitchen-sink/"
+github = "marcop135/bullframe.css"
+note = ""
+website = "https://bullframecss.marcopontili.com"
+screenshots = [
+  "bullframe-css.png",
+  "bullframe-css-1-system-dark.png",
+]
+tags = ["classless"]
+
 [ChimeraCSS]
 demo = "https://chimera-demo.vercel.app/"
 github = "ChimeraCSS/ChimeraCSS"
