@@ -135,6 +135,14 @@ website = ""
 screenshots = ["downstyler.png"]
 tags = ["classless"]
 
+[fertig]
+demo = "https://moji2002.github.io/fertig/"
+github = "moji2002/fertig"
+note = ""
+website = ""
+screenshots = ["fertig.png"]
+tags = ["classless"]
+
 [Fylgja]
 demo = "https://codepen.io/Fylgja/pen/ExGOZaE"
 github = "fylgja/fylgja"
