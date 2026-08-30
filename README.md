@@ -24,6 +24,7 @@ This is useful, for example, in prototyping.
     + [concrete.css](#concretecss)
     + [dev.css](#devcss)
     + [Downstyler](#downstyler)
+    + [fertig](#fertig)
     + [Fylgja](#fylgja)
     + [holiday.css](#holidaycss)
     + [LatexCSS](#latexcss)
@@ -264,6 +265,19 @@ This is useful, for example, in prototyping.
 - [Demo](https://waldyrious.github.io/downstyler)
 
 [![downstyler.png](thumbnail/downstyler.png)](screenshot/downstyler.png)
+
+
+### fertig
+
+- [Repository](https://github.com/moji2002/fertig)
+  ![GitHub stars](https://img.shields.io/github/stars/moji2002/fertig?style=flat-square)
+  ![GitHub contributors](https://img.shields.io/github/contributors-anon/moji2002/fertig?style=flat-square)
+  ![Last commit](https://img.shields.io/github/last-commit/moji2002/fertig?style=flat-square)
+  ![GitHub open issues](https://img.shields.io/github/issues-raw/moji2002/fertig?style=flat-square)
+  ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/moji2002/fertig?style=flat-square)
+- [Demo](https://moji2002.github.io/fertig/)
+
+[![fertig.png](thumbnail/fertig.png)](screenshot/fertig.png)
 
 
 ### Fylgja
