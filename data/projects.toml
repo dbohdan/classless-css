@@ -251,6 +251,14 @@ website = ""
 screenshots = ["new.css.png"]
 tags = ["classless"]
 
+["nimble.css"]
+demo = "https://leftium.github.io/nimble.css/demo/"
+github = "Leftium/nimble.css"
+note = ""
+website = ""
+screenshots = ["nimble.css.png"]
+tags = ["classless"]
+
 ["no-class.css"]
 demo = "https://davidpaulsson.github.io/no-class/"
 github = "davidpaulsson/no-class"

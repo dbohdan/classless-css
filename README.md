@@ -38,6 +38,7 @@ This is useful, for example, in prototyping.
     + [mi.css](#micss)
     + [MVP.css](#mvpcss)
     + [new.css](#newcss)
+    + [nimble.css](#nimblecss)
     + [no-class.css](#no-classcss)
     + [Pico.css](#picocss)
     + [ridge.css](#ridgecss)
@@ -453,6 +454,19 @@ This is useful, for example, in prototyping.
 - [Demo](https://newcss.net/demo/)
 
 [![new.css.png](thumbnail/new.css.png)](screenshot/new.css.png)
+
+
+### nimble.css
+
+- [Repository](https://github.com/Leftium/nimble.css)
+  ![GitHub stars](https://img.shields.io/github/stars/Leftium/nimble.css?style=flat-square)
+  ![GitHub contributors](https://img.shields.io/github/contributors-anon/Leftium/nimble.css?style=flat-square)
+  ![Last commit](https://img.shields.io/github/last-commit/Leftium/nimble.css?style=flat-square)
+  ![GitHub open issues](https://img.shields.io/github/issues-raw/Leftium/nimble.css?style=flat-square)
+  ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Leftium/nimble.css?style=flat-square)
+- [Demo](https://leftium.github.io/nimble.css/demo/)
+
+[![nimble.css.png](thumbnail/nimble.css.png)](screenshot/nimble.css.png)
 
 
 ### no-class.css
