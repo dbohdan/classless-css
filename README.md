@@ -35,6 +35,7 @@ This is useful, for example, in prototyping.
     + [Markdown CSS — Splendor](#markdown-css--splendor)
     + [Marx](#marx)
     + [MercuryCSS](#mercurycss)
+    + [mi.css](#micss)
     + [MVP.css](#mvpcss)
     + [new.css](#newcss)
     + [no-class.css](#no-classcss)
@@ -414,6 +415,18 @@ This is useful, for example, in prototyping.
 - [Demo](https://wmeredith.github.io/MercuryCSS/)
 
 [![mercurycss.png](thumbnail/mercurycss.png)](screenshot/mercurycss.png)
+
+
+### mi.css
+
+- [Repository](https://github.com/FelipeIzolan/mi)
+  ![GitHub stars](https://img.shields.io/github/stars/FelipeIzolan/mi?style=flat-square)
+  ![GitHub contributors](https://img.shields.io/github/contributors-anon/FelipeIzolan/mi?style=flat-square)
+  ![Last commit](https://img.shields.io/github/last-commit/FelipeIzolan/mi?style=flat-square)
+  ![GitHub open issues](https://img.shields.io/github/issues-raw/FelipeIzolan/mi?style=flat-square)
+  ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/FelipeIzolan/mi?style=flat-square)
+
+[![micss.png](thumbnail/micss.png)](screenshot/micss.png)
 
 
 ### MVP.css

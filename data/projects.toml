@@ -227,6 +227,14 @@ website = ""
 screenshots = ["mercurycss.png"]
 tags = ["classless"]
 
+["mi.css"]
+demo = ""
+github = "FelipeIzolan/mi"
+note = ""
+website = ""
+screenshots = ["micss.png"]
+tags = ["classless"]
+
 ["MVP.css"]
 demo = "https://andybrewer.github.io/mvp/"
 github = "andybrewer/mvp"
