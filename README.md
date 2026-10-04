@@ -19,6 +19,7 @@ This is useful, for example, in prototyping.
     + [BareCSS](#barecss)
     + [Basic.css](#basiccss)
     + [Bolt.css](#boltcss)
+    + [Blades](#blades)
     + [bullframe.css](#bullframecss)
     + [ChimeraCSS](#chimeracss)
     + [Classless.css](#classlesscss)
@@ -195,6 +196,19 @@ This is useful, for example, in prototyping.
 - [Demo](https://boltcss.com/)
 
 [![bolt.css.png](thumbnail/bolt.css.png)](screenshot/bolt.css.png)
+
+
+### Blades
+
+- [Website](https://blades.dev/)
+- [Repository](https://github.com/anyblades/blades)
+  ![GitHub stars](https://img.shields.io/github/stars/anyblades/blades?style=flat-square)
+  ![GitHub contributors](https://img.shields.io/github/contributors-anon/anyblades/blades?style=flat-square)
+  ![Last commit](https://img.shields.io/github/last-commit/anyblades/blades?style=flat-square)
+  ![GitHub open issues](https://img.shields.io/github/issues-raw/anyblades/blades?style=flat-square)
+  ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/anyblades/blades?style=flat-square)
+
+[![blades.png](thumbnail/blades.png)](screenshot/blades.png)
 
 
 ### bullframe.css
