@@ -1,0 +1,5 @@
+/attic/
+/node_modules/
+
+*.css
+*.sw*
