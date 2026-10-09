@@ -1,14 +1,15 @@
-#! /usr/bin/env -S deno run --allow-read --allow-env --check
+#! /usr/bin/env node
 
-import markdownTOC from "npm:markdown-toc@1";
-import nunjucks from "npm:nunjucks@3";
-import TOML from "npm:@iarna/toml@3";
+import markdownTOC from "markdown-toc";
+import nunjucks from "nunjucks";
+import TOML from "@iarna/toml";
+import { readFile } from "node:fs/promises";
 
-if (Deno.args.length !== 2) {
+if (process.argv.length !== 4) {
   console.error("usage: render-template.ts template.njk data.toml");
-  Deno.exit(1);
+  process.exit(1);
 }
-const [templatePath, dataPath] = Deno.args;
+const [, , templatePath, dataPath] = process.argv;
 
 interface INamedProject {
   name: string;
@@ -30,16 +31,17 @@ const projList = (projects: IProjects): INamedProject[] =>
     );
 
 try {
-  const template = (await Deno.readTextFile(templatePath)).trim();
-  const data = TOML.parse(await Deno.readTextFile(dataPath));
+  const template = (await readFile(templatePath, "utf8")).trim();
+  const data = TOML.parse(await readFile(dataPath, "utf8"));
 
   const tocToken = `%TOC-${Math.random()}%`;
-  const env = new nunjucks.configure({
+  const env = nunjucks.configure({
     lstripBlocks: true,
     trimBlocks: true,
-  }).addGlobal("toc", tocToken);
+  });
+  env.addGlobal("toc", tocToken);
   const doc = env.renderString(template, {
-    projects: projList(<IProjects> data),
+    projects: projList(data as IProjects),
   });
 
   const headingFilter = (str: string) => !str.match(/Contents/);

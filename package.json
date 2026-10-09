@@ -1,0 +1,14 @@
+{
+  "name": "classless-css",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "devDependencies": {
+    "@iarna/toml": "^3.0.0",
+    "markdown-toc": "^1.2.0",
+    "nunjucks": "^3.2.4",
+    "playwright": "1.63.0"
+  }
+}

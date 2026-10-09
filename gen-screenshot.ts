@@ -1,9 +1,13 @@
-#! /usr/bin/env -S deno run --allow-all --check
+#! /usr/bin/env node
 // Generate the screenshot and its thumbnail for a project.
 // To install the dependencies on Debian/Ubuntu:
 // $ sudo apt install imagemagick optipng
+// $ PLAYWRIGHT_DOWNLOAD_HOST=https://cdn.npmmirror.com/binaries/playwright \
+//     npx playwright install chromium
 
-import { chromium } from "npm:playwright";
+import { chromium } from "playwright";
+import { readFile, realpath, rm, writeFile } from "node:fs/promises";
+import { spawn } from "node:child_process";
 
 const templateFile = "screenshot-page.html";
 const temporaryFile = "temp.html";
@@ -25,59 +29,64 @@ const saveScreenshot = async (src: string, dest: string) => {
   await browser.close();
 };
 
-if (Deno.args.length < 1 || Deno.args.length > 2) {
+const run = (command: string, args: string[]) =>
+  new Promise<void>((resolve, reject) => {
+    const child = spawn(command, args, { stdio: "inherit" });
+    child.on("error", reject);
+    child.on(
+      "exit",
+      (code) =>
+        code === 0
+          ? resolve()
+          : reject(new Error(`${command} exited with code ${code}`)),
+    );
+  });
+
+if (process.argv.length < 3 || process.argv.length > 4) {
   console.error(
     "usage: gen-screenshot.ts project-name [css-file]\n\n" +
       "The image filename will be derived from the project name.",
   );
-  Deno.exit(1);
+  process.exit(1);
 }
 
-const screenshotFile = `${slugify(Deno.args[0])}.png`;
-const cssFile = Deno.args[1] || "";
+const screenshotFile = `${slugify(process.argv[2])}.png`;
+const cssFile = process.argv[3] || "";
 
 try {
-  const htmlTemplate = await Deno.readTextFile(templateFile);
-  const css = cssFile === "" ? "" : await Deno.readTextFile(cssFile);
+  const htmlTemplate = await readFile(templateFile, "utf8");
+  const css = cssFile === "" ? "" : await readFile(cssFile, "utf8");
   const html = htmlTemplate.replace(/%CSS_HERE%/, css);
-  await Deno.writeTextFile(temporaryFile, html);
+  await writeFile(temporaryFile, html);
 
-  const tempFilePath = await Deno.realPath(temporaryFile);
+  const tempFilePath = await realpath(temporaryFile);
   await saveScreenshot(
     `file://${tempFilePath}`,
     `screenshot/${screenshotFile}`,
   );
 
-  await (new Deno.Command(
+  await run(
     "convert",
-    {
-      args: [
-        "-resize",
-        "25%",
-        "-adaptive-sharpen",
-        "10",
-        `screenshot/${screenshotFile}`,
-        `thumbnail/${screenshotFile}`,
-      ],
-      stderr: "inherit",
-      stdout: "inherit",
-    },
-  )).output();
-
-  await (new Deno.Command("optipng", {
-    args: [
-      "-o",
-      "5",
-      "-strip",
-      "all",
+    [
+      "-resize",
+      "25%",
+      "-adaptive-sharpen",
+      "10",
       `screenshot/${screenshotFile}`,
       `thumbnail/${screenshotFile}`,
     ],
-    stderr: "inherit",
-    stdout: "inherit",
-  })).output();
+  );
+
+  await run("optipng", [
+    "-o",
+    "5",
+    "-strip",
+    "all",
+    `screenshot/${screenshotFile}`,
+    `thumbnail/${screenshotFile}`,
+  ]);
 } catch (err) {
   console.error(err);
 } finally {
-  Deno.remove(temporaryFile);
+  await rm(temporaryFile, { force: true });
 }
