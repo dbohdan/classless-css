@@ -280,7 +280,7 @@ This is useful, for example, in prototyping.
   ![Last commit](https://img.shields.io/github/last-commit/intergrav/dev.css?style=flat-square)
   ![GitHub open issues](https://img.shields.io/github/issues-raw/intergrav/dev.css?style=flat-square)
   ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/intergrav/dev.css?style=flat-square)
-- [Demo](https://devcss.devins.page/demo)
+- [Demo](https://devcss.devins.page/)
 
 [![dev.css.png](thumbnail/dev.css.png)](screenshot/dev.css.png)
 
@@ -517,7 +517,7 @@ This is useful, for example, in prototyping.
   ![Last commit](https://img.shields.io/github/last-commit/swlkr/ridgecss?style=flat-square)
   ![GitHub open issues](https://img.shields.io/github/issues-raw/swlkr/ridgecss?style=flat-square)
   ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/swlkr/ridgecss?style=flat-square)
-- [Demo](https://ridgecss.com/)
+- [Demo](https://swlkr.com/ridgecss/)
 
 [![ridge.css-light.png](thumbnail/ridge.css-light.png)](screenshot/ridge.css-light.png)
 [![ridge.css-dark.png](thumbnail/ridge.css-dark.png)](screenshot/ridge.css-dark.png)
@@ -581,13 +581,13 @@ This is useful, for example, in prototyping.
 
 ### style.css
 
-- [Repository](https://github.com/css-pkg/style.css)
-  ![GitHub stars](https://img.shields.io/github/stars/css-pkg/style.css?style=flat-square)
-  ![GitHub contributors](https://img.shields.io/github/contributors-anon/css-pkg/style.css?style=flat-square)
-  ![Last commit](https://img.shields.io/github/last-commit/css-pkg/style.css?style=flat-square)
-  ![GitHub open issues](https://img.shields.io/github/issues-raw/css-pkg/style.css?style=flat-square)
-  ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/css-pkg/style.css?style=flat-square)
-- [Demo](https://css-pkg.github.io/style.css/)
+- [Repository](https://github.com/ungoldman/style.css)
+  ![GitHub stars](https://img.shields.io/github/stars/ungoldman/style.css?style=flat-square)
+  ![GitHub contributors](https://img.shields.io/github/contributors-anon/ungoldman/style.css?style=flat-square)
+  ![Last commit](https://img.shields.io/github/last-commit/ungoldman/style.css?style=flat-square)
+  ![GitHub open issues](https://img.shields.io/github/issues-raw/ungoldman/style.css?style=flat-square)
+  ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/ungoldman/style.css?style=flat-square)
+- [Demo](https://ungoldman.com/style.css/)
 
 [![style.css.png](thumbnail/style.css.png)](screenshot/style.css.png)
 
