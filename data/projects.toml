@@ -139,7 +139,7 @@ screenshots = ["concrete.css.png"]
 tags = ["classless"]
 
 ["dev.css"]
-demo = "https://devcss.devins.page/demo"
+demo = "https://devcss.devins.page/"
 github = "intergrav/dev.css"
 note = ""
 website = "https://devcss.devins.page/"
@@ -283,7 +283,7 @@ screenshots = ["pico-css.png"]
 tags = ["classless"]
 
 ["ridge.css"]
-demo = "https://ridgecss.com/"
+demo = "https://swlkr.com/ridgecss/"
 github = "swlkr/ridgecss"
 note = ""
 website = ""
@@ -329,8 +329,8 @@ screenshots = ["spcss.png"]
 tags = ["classless"]
 
 ["style.css"]
-demo = "https://css-pkg.github.io/style.css/"
-github = "css-pkg/style.css"
+demo = "https://ungoldman.com/style.css/"
+github = "ungoldman/style.css"
 note = ""
 website = ""
 screenshots = ["style.css.png"]
