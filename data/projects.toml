@@ -344,6 +344,17 @@ website = ""
 screenshots = ["stylize.css.png"]
 tags = ["classless"]
 
+["T'Pico"]
+demo = "https://jsfiddle.net/bLpsf2jd/"
+github = "https://github.com/dday9/t-pico"
+note = ""
+website = ""
+screenshots = [
+  "t-pico-light.png",
+  "t-pico-dark.png",
+]
+tags = ["classless"]
+
 [tacit]
 demo = "https://yegor256.github.io/tacit/"
 github = "yegor256/tacit"
